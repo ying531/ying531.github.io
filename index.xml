@@ -22,12 +22,11 @@ Prior to Stanford, I earned my BS in Mathematics and a double degree in Ecomonic
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ying531.github.io/research/</guid>
-      <description>Research Interests  Causal Inference Reinforcement Learning Graphs and Networks   Ongoing Projects   Conditional Inference
-Statistical inference conditional on characteristics of population at hand.
-  Calibration Bands
-Assumption-free uncertainty calibration of quantile function with lower and upper bounded coverage with high probability guarantee.
-  Semiparametrically Efficient Estimate of Causal Projection Coefficient
-A $\sqrt{n}$-consistent and semiparametrically efficient estimate of the least-square projection coefficient of treatment effect onto propensity score.</description>
+      <description>Research Interests  Causal Inference Multiple Hypothesis Testing Reinforcement Learning   Papers &amp;amp; Preprints   Conditional Inference: Towards a Hierarchy of Statistical Evidence [pdf] Ying Jin and Dominik Rothenhäusler
+Arxiv preprint, 2021.
+  Is Pessimism Provably Efficient for Offline RL? [pdf] Ying Jin*, Zhuoran Yang* and Zhaoran Wang*
+Arxiv preprint, 2020.
+   Undergraduate Work   Computational-Statistical Tradeoffs in Inferring Combinatorial Structures of Ising Model [pdf] [supp] Ying Jin, Zhaoran Wang and Junwei Lu</description>
     </item>
     
     <item>
