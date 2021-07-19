@@ -12,8 +12,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ying531.github.io/about/</guid>
-      <description>I am a second-year PhD student at Department of Statistics, Stanford University. I am fortunate to be advised by Professors Emmanuel Candès and Dominik Rothenhäusler. I was also mentored by Professor Stefan Wager on particular research projects.
-Prior to Stanford, I earned my BS in Mathematics and a double degree in Ecomonics (Finance), both from Tsinghua University, China. I was advised by Professor Dong Li on my undergraduate research and thesis.</description>
+      <description>I am a second-year PhD student at Stanford Statistics. I am fortunate to be advised by Professors Emmanuel Candès and Dominik Rothenhäusler. I was also mentored by Professor Stefan Wager on particular research projects.
+Prior to Stanford, I earned my BS in Mathematics and a double degree in Ecomonics (Finance), both from Tsinghua University, China. I was advised by Professor Dong Li on my undergraduate research and thesis. I am also fortunate to be advised by Professors Zhaoran Wang and Junwei Lu since my undergraduate years on projects about graphical models and more recently reinforcement learning and causality.</description>
     </item>
     
     <item>
@@ -22,10 +22,8 @@ Prior to Stanford, I earned my BS in Mathematics and a double degree in Ecomonic
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ying531.github.io/research/</guid>
-      <description>Research Interests  Causal Inference Multiple Hypothesis Testing Reinforcement Learning   Papers &amp;amp; Preprints   Contemporary Symbolic Regression Methods and their Relative Performance William La Cava, Patryk Orzechowski, Bogdan Burlacu, Fabricio Olivetti de Franca, Marco Virgolin, Ying Jin, Michael Kommenda and Jason H. Moore
-Submitted, 2021.
-  One estimator, many estimands: fine-grained quantification of uncertainty using conditional inference [pdf] Ying Jin and Dominik Rothenhäusler
-Arxiv preprint, 2021.</description>
+      <description>Research Interests  Causal Inference Multiple Hypothesis Testing Reinforcement Learning   Papers &amp;amp; Preprints   Contemporary Symbolic Regression Methods and their Relative Performance William La Cava, Patryk Orzechowski, Bogdan Burlacu, Fabricio Olivetti de Franca, Marco Virgolin, Ying Jin, Michael Kommenda and Jason H. Moore. Submitted, 2021.
+  One estimator, many estimands: fine-grained quantification of uncertainty using conditional inference [pdf] Ying Jin and Dominik Rothenhäusler. Arxiv preprint, 2021.</description>
     </item>
     
     <item>
