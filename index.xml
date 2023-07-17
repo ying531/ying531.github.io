@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ying Jin (金滢) on Ying Jin</title>
+    <link>https://ying531.github.io/</link>
+    <description>Recent content in Ying Jin (金滢) on Ying Jin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://ying531.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research</title>
+      <link>https://ying531.github.io/null/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ying531.github.io/null/</guid>
+      <description>Research Interests  Causal inference Distributional robustness Multiple hypothesis testing Data-driven decision making   My research centers around developing robust, relevant, and efficient statistical tools for inference and decision making.
+Sensitivity analysis for causal inference
+Causal inference with observational data has mostly relied on the strong ignorability (unconfoundedness) assumption, which is unfortunately not testable and hard to justify in practice. I worked on a few projects about sensitivity analysis, aiming at understanding the robustness of causal conclusions against unmeasured confounding.</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://ying531.github.io/research_s/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ying531.github.io/research_s/</guid>
+      <description>Research Interests  Distribution-free inference Multiple hypothesis testing Causal inference Data-driven decision making Distributional robustness, generalizability, and replicability   Preprints   Uncertainty quantification over graph with conformalized graph neural networks Kexin Huang, Ying Jin, Emmanuel Candès, and Jure Leskovec.
+  Policy learning &amp;ldquo;without&amp;rdquo; overlap: pessimism and generalized empirical Bernstein&amp;rsquo;s inequality Ying Jin*, Zhimei Ren*, Zhuoran Yang, and Zhaoran Wang.
+Fun read: [an article on this work]
+  Modular regression Ying Jin and Dominik Rothenhäusler.</description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>https://ying531.github.io/talk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ying531.github.io/talk/</guid>
+      <description>Diagnosing the Role of Observable Distribution Shift in Scientific Replications
+ IMS International Conference on Statistics and Data Science (ICSDS), December 2023 Causality in Practice Conference (Thematic Quarter on Causality), June 2023     
+  Selection by Prediction: Model-Free Selective Inference with Conformal p-values
+ Joint Statistical Meetings, August 2023 Joint Conference on Statistics and Data Science in China, June 2023 ICSA China Conference, June 2023 INRIA Causal Inference Group, May 2023 International Seminar on Selective Inference (ISSI), May 2023 [video] International Conference on Design of Experiments (ICODOE), May 2023 One World Mathematics in Machine Learning Online Seminar, April 2023 [video] [slides] Stanford Statistics Student Seminar, December 2022 Stanford Statistics Industrial Affiliates Annual Conference, November 2022</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://ying531.github.io/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ying531.github.io/teaching/</guid>
+      <description> Guest lecture at STATS 300C - Theory of Statistics (2023 Spring)   
+ 
+  STATS204 - Sampling (TA 2023 Spring) STATS320 - Statistical Methods for Neural Data Analysis (TA 2023 Winter) STATS200 - Introduction to Statistical Inference (TA 2022 Autumn) STATS216 - Introduction to Statistical Learning (TA 2022 Summer) STATS60 - Introduction to Statistical Methods: Precalculus (TA 2022 Spring) STATS202 - Data Mining and Analysis (TA 2021 Autumn) STATS241 - Data-driven Financial Econometrics (TA 2021 Spring) STATS240 - Statistical Methods in Finance (TA 2021 Winter) STATS305A - Applied Statistics (TA 2020 Autumn) STATS216 - Introduction to Statistical Learning (TA 2020 Summer) STATS216 - Introduction to Statistical Learning (TA 2020 Winter) STATS205 - Nonparametric Statistics (TA 2019 Autumn)  </description>
+    </item>
+    
+  </channel>
+</rss>
