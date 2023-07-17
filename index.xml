@@ -8,17 +8,6 @@
     <language>en-us</language><atom:link href="https://ying531.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Research</title>
-      <link>https://ying531.github.io/null/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ying531.github.io/null/</guid>
-      <description>Research Interests  Causal inference Distributional robustness Multiple hypothesis testing Data-driven decision making   My research centers around developing robust, relevant, and efficient statistical tools for inference and decision making.
-Sensitivity analysis for causal inference
-Causal inference with observational data has mostly relied on the strong ignorability (unconfoundedness) assumption, which is unfortunately not testable and hard to justify in practice. I worked on a few projects about sensitivity analysis, aiming at understanding the robustness of causal conclusions against unmeasured confounding.</description>
-    </item>
-    
-    <item>
-      <title>Research</title>
       <link>https://ying531.github.io/research_s/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
