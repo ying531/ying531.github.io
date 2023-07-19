@@ -12,7 +12,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ying531.github.io/research_s/</guid>
-      <description>Research Interests  Distribution-free inference Multiple hypothesis testing Causal inference Data-driven decision making Distributional robustness, generalizability, and replicability   Preprints   Model-free selective inference under covariate shift via weighted conformal p-values Ying Jin and Emmanuel Candès.
+      <description>Research Interests  Distribution-free inference Multiple hypothesis testing Causal inference Data-driven decision making Distributional robustness, generalizability, and replicability   Preprints   Model-free selective inference under covariate shift via weighted conformal p-values
+[software and reproduction code] Ying Jin and Emmanuel Candès.
   Uncertainty quantification over graph with conformalized graph neural networks Kexin Huang, Ying Jin, Emmanuel Candès, and Jure Leskovec.
   Policy learning &amp;ldquo;without&amp;rdquo; overlap: pessimism and generalized empirical Bernstein&amp;rsquo;s inequality Ying Jin*, Zhimei Ren*, Zhuoran Yang, and Zhaoran Wang.</description>
     </item>
