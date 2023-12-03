@@ -7,33 +7,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://ying531.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Causality, counterfactual, and distribution robustness</title>
-      <link>https://ying531.github.io/posts/sensitivity/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ying531.github.io/posts/sensitivity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Conformalized selection: why and how</title>
-      <link>https://ying531.github.io/posts/selective/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ying531.github.io/posts/selective/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jomi</title>
-      <link>https://ying531.github.io/posts/jomi/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ying531.github.io/posts/jomi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Research</title>
       <link>https://ying531.github.io/research_s/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -67,15 +40,6 @@
       <description> Guest lecture at STATS 300C - Theory of Statistics (2023 Spring)   
  
   STATS209 - Introduction to Causal Inference (TA 2023 Autumn) STATS204 - Sampling (TA 2023 Spring) STATS320 - Statistical Methods for Neural Data Analysis (TA 2023 Winter) STATS200 - Introduction to Statistical Inference (TA 2022 Autumn) STATS216 - Introduction to Statistical Learning (TA 2022 Summer) STATS60 - Introduction to Statistical Methods: Precalculus (TA 2022 Spring) STATS202 - Data Mining and Analysis (TA 2021 Autumn) STATS241 - Data-driven Financial Econometrics (TA 2021 Spring) STATS240 - Statistical Methods in Finance (TA 2021 Winter) STATS305A - Applied Statistics (TA 2020 Autumn) STATS216 - Introduction to Statistical Learning (TA 2020 Summer) STATS216 - Introduction to Statistical Learning (TA 2020 Winter) STATS205 - Nonparametric Statistics (TA 2019 Autumn)  </description>
-    </item>
-    
-    <item>
-      <title>What contributes to non-replicability?</title>
-      <link>https://ying531.github.io/posts/replicability/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ying531.github.io/posts/replicability/</guid>
-      <description></description>
     </item>
     
   </channel>
