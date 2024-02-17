@@ -5,42 +5,28 @@
     <link>https://ying531.github.io/</link>
     <description>Recent content in Ying Jin (金滢) on Ying Jin</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://ying531.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <atom:link href="https://ying531.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Research</title>
       <link>https://ying531.github.io/research_s/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ying531.github.io/research_s/</guid>
-      <description>Research Interests  Distribution-free inference Multiple hypothesis testing Causal inference Data-driven decision making Distributional robustness, generalizability, and replicability   Preprints   Diagnosing the role of observable distribution shift in scientific replications
-[awesome-replicability-data] [R package] [shiny app] Ying Jin*, Kevin Guo*, and Dominik Rothenhäusler, 2023.
-  Model-free selective inference under covariate shift via weighted conformal p-values
-[software and reproduction code] Ying Jin and Emmanuel Candès, 2023.
-  Policy learning &amp;ldquo;without&amp;rdquo; overlap: pessimism and generalized empirical Bernstein&amp;rsquo;s inequality Ying Jin*, Zhimei Ren*, Zhuoran Yang, and Zhaoran Wang, 2022.</description>
+      <description>Research Interests Conformal prediction Multiple hypothesis testing Causal inference Data-driven decision making Distributional robustness, generalizability, and replicability Preprints Diagnosing the role of observable distribution shift in scientific replications&#xA;[awesome-replicability-data] [R package] [shiny app] Ying Jin*, Kevin Guo*, and Dominik Rothenhäusler, 2023.&#xA;Model-free selective inference under covariate shift via weighted conformal p-values&#xA;[software and reproduction code] Ying Jin and Emmanuel Candès, 2023.&#xA;Policy learning &amp;ldquo;without&amp;rdquo; overlap: pessimism and generalized empirical Bernstein&amp;rsquo;s inequality Ying Jin*, Zhimei Ren*, Zhuoran Yang, and Zhaoran Wang, 2022.</description>
     </item>
-    
     <item>
       <title>Talks</title>
       <link>https://ying531.github.io/talk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ying531.github.io/talk/</guid>
-      <description>Diagnosing the Role of Observable Distribution Shift in Scientific Replications
- IMS International Conference on Statistics and Data Science (ICSDS), December 2023 Stanford-Berkeley Joint Colloquium Student Seminar, October 2023 Causality in Practice Conference (Thematic Quarter on Causality), June 2023     
-  Model-Free Selective Inference with Conformal p-values
- International Conference on Econometrics and Statistics (EcoSta 2024), July 2024 MLBoost Online Seminar, January 2024 Rising Stars in Data Science Workshop, University of Chicago, November 2023 Genentech, September 2023 Joint Statistical Meetings, August 2023 Joint Conference on Statistics and Data Science in China, June 2023  ICSA China Conference, June 2023 INRIA Causal Inference Group, May 2023 International Seminar on Selective Inference (ISSI), May 2023 [video] [slides] International Conference on Design of Experiments (ICODOE), May 2023 One World Mathematics in Machine Learning Online Seminar, April 2023 [video] [slides] Stanford Statistics Student Seminar, December 2022 Stanford Statistics Industrial Affiliates Annual Conference, November 2022</description>
+      <description>Diagnosing the Role of Observable Distribution Shift in Scientific Replications&#xA;IMS International Conference on Statistics and Data Science (ICSDS), December 2023 Stanford-Berkeley Joint Colloquium Student Seminar, October 2023 Causality in Practice Conference (Thematic Quarter on Causality), June 2023 Model-Free Selective Inference with Conformal p-values&#xA;International Conference on Econometrics and Statistics (EcoSta 2024), July 2024 MLBoost Online Seminar, January 2024 Rising Stars in Data Science Workshop, University of Chicago, November 2023 Genentech, September 2023 Joint Statistical Meetings, August 2023 Joint Conference on Statistics and Data Science in China, June 2023 ICSA China Conference, June 2023 INRIA Causal Inference Group, May 2023 International Seminar on Selective Inference (ISSI), May 2023 [video] [slides] International Conference on Design of Experiments (ICODOE), May 2023 One World Mathematics in Machine Learning Online Seminar, April 2023 [video] [slides] Stanford Statistics Student Seminar, December 2022 Stanford Statistics Industrial Affiliates Annual Conference, November 2022 Policy Learning ‘without’ Overlap: Pessimism and Generalized Empirical Bernstein’s Inequality</description>
     </item>
-    
     <item>
       <title>Teaching</title>
       <link>https://ying531.github.io/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ying531.github.io/teaching/</guid>
-      <description> Guest lecture at STATS 300C - Theory of Statistics (2023 Spring)   
- 
-  STATS209 - Introduction to Causal Inference (TA 2023 Autumn) STATS204 - Sampling (TA 2023 Spring) STATS320 - Statistical Methods for Neural Data Analysis (TA 2023 Winter) STATS200 - Introduction to Statistical Inference (TA 2022 Autumn) STATS216 - Introduction to Statistical Learning (TA 2022 Summer) STATS60 - Introduction to Statistical Methods: Precalculus (TA 2022 Spring) STATS202 - Data Mining and Analysis (TA 2021 Autumn) STATS241 - Data-driven Financial Econometrics (TA 2021 Spring) STATS240 - Statistical Methods in Finance (TA 2021 Winter) STATS305A - Applied Statistics (TA 2020 Autumn) STATS216 - Introduction to Statistical Learning (TA 2020 Summer) STATS216 - Introduction to Statistical Learning (TA 2020 Winter) STATS205 - Nonparametric Statistics (TA 2019 Autumn)  </description>
+      <description> Guest lecture at STATS 300C - Theory of Statistics (2023 Spring) STATS209 - Introduction to Causal Inference (TA 2023 Autumn) STATS204 - Sampling (TA 2023 Spring) STATS320 - Statistical Methods for Neural Data Analysis (TA 2023 Winter) STATS200 - Introduction to Statistical Inference (TA 2022 Autumn) STATS216 - Introduction to Statistical Learning (TA 2022 Summer) STATS60 - Introduction to Statistical Methods: Precalculus (TA 2022 Spring) STATS202 - Data Mining and Analysis (TA 2021 Autumn) STATS241 - Data-driven Financial Econometrics (TA 2021 Spring) STATS240 - Statistical Methods in Finance (TA 2021 Winter) STATS305A - Applied Statistics (TA 2020 Autumn) STATS216 - Introduction to Statistical Learning (TA 2020 Summer) STATS216 - Introduction to Statistical Learning (TA 2020 Winter) STATS205 - Nonparametric Statistics (TA 2019 Autumn) </description>
     </item>
-    
   </channel>
 </rss>
