@@ -9,9 +9,9 @@
     <atom:link href="https://ying531.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Research</title>
-      <link>https://ying531.github.io/research_s/</link>
+      <link>https://ying531.github.io/publication/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ying531.github.io/research_s/</guid>
+      <guid>https://ying531.github.io/publication/</guid>
       <description>Research Interests Conformal prediction Multiple hypothesis testing Causal inference Data-driven decision making Distributional robustness, generalizability, and replicability Preprints Confidence on the focal: Conformal prediction with selection-conditional coverage&#xA;Ying Jin and Zhimei Ren, 2024.&#xA;Diagnosing the role of observable distribution shift in scientific replications&#xA;[awesome-replicability-data] [R package] [shiny app] Ying Jin*, Kevin Guo*, and Dominik Rothenhäusler, 2023.&#xA;Model-free selective inference under covariate shift via weighted conformal p-values&#xA;[software and reproduction code] Ying Jin and Emmanuel Candès, 2023.</description>
     </item>
     <item>
