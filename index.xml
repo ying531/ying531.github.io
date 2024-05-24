@@ -8,18 +8,25 @@
     <language>en-us</language>
     <atom:link href="https://ying531.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Miscellaneous</title>
+      <link>https://ying531.github.io/misc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ying531.github.io/misc/</guid>
+      <description>News Archive Jan 2024: Interested in making good decisions with conformal prediction? I&amp;rsquo;ll give a virtual talk &amp;ldquo;Selecting Trusted Decisions from AI Black Boxes: Correcting Conformal Prediction for Selective Guarantees&amp;rdquo; at MLBoost (event link, Jan 4, 2024). This is based on our work on model-free selective inference [1, 2].&#xA;Oct-Dec 2023: I&amp;rsquo;m presenting at INFORMS Annual Meeting, WORDS 2023 at Duke University, Rising Stars in Data Science Workshop at UChicago, and &amp;ldquo;Causality, generalizability, and robustness&amp;rdquo; session at ICSDS 2023.</description>
+    </item>
+    <item>
       <title>Research</title>
       <link>https://ying531.github.io/publication/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ying531.github.io/publication/</guid>
-      <description>Research Interests Conformal prediction Multiple hypothesis testing Causal inference Data-driven decision making Distributional robustness, generalizability, and replicability Preprints Confidence on the focal: Conformal prediction with selection-conditional coverage&#xA;Ying Jin and Zhimei Ren, 2024.&#xA;Diagnosing the role of observable distribution shift in scientific replications&#xA;[awesome-replicability-data] [R package] [shiny app] Ying Jin*, Kevin Guo*, and Dominik Rothenhäusler, 2023.&#xA;Model-free selective inference under covariate shift via weighted conformal p-values&#xA;[software and reproduction code] Ying Jin and Emmanuel Candès, 2023.</description>
+      <description>Research Interests Conformal prediction Multiple hypothesis testing Causal inference Data-driven decision making Distributional robustness, generalizability, and replicability Preprints Conformal alignment: knowing when to trust foundation models with guarantees&#xA;Yu Gui*, Ying Jin*, and Zhimei Ren*, 2024.&#xA;Confidence on the focal: Conformal prediction with selection-conditional coverage&#xA;Ying Jin* and Zhimei Ren*, 2024.&#xA;Diagnosing the role of observable distribution shift in scientific replications&#xA;[awesome-replicability-data] [R package] [shiny app] Ying Jin*, Kevin Guo*, and Dominik Rothenhäusler, 2023.</description>
     </item>
     <item>
       <title>Talks</title>
       <link>https://ying531.github.io/talk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ying531.github.io/talk/</guid>
-      <description>Diagnosing the Role of Observable Distribution Shift in Scientific Replications&#xA;IMS International Conference on Statistics and Data Science (ICSDS), December 2023 Stanford-Berkeley Joint Colloquium Student Seminar, October 2023 Causality in Practice Conference (Thematic Quarter on Causality), June 2023 Model-Free Selective Inference: From Calibrated Uncertainty to Trusted Decisions&#xA;MLBoost Online Seminar, January 2024 Rising Stars in Data Science Workshop, University of Chicago, November 2023 Genentech, September 2023 Joint Statistical Meetings, August 2023 Joint Conference on Statistics and Data Science in China, June 2023 ICSA China Conference, June 2023 INRIA Causal Inference Group, May 2023 International Seminar on Selective Inference (ISSI), May 2023 [video] [slides] International Conference on Design of Experiments (ICODOE), May 2023 One World Mathematics in Machine Learning Online Seminar, April 2023 [video] [slides] Stanford Statistics Student Seminar, December 2022 Stanford Statistics Industrial Affiliates Annual Conference, November 2022 Policy Learning ‘without’ Overlap: Pessimism and Generalized Empirical Bernstein’s Inequality</description>
+      <description>Conformal Alignment: Knowing When to Trust Foundation Models with Guarantees&#xA;Joint Conference on Statistics and Data Science, China, July 2024 International Conference on Statistics and Data Science, December 2024 Confidence on the Focal: Conformal Prediction with Selection-Conditional Coverage&#xA;Hangzhou International Conference on Frontiers of Data Science, China, July 2024 Diagnosing the Role of Observable Distribution Shift in Scientific Replications&#xA;Joint Statistical Meetings, August 2024 Inaugural Berkeley-Stanford Workshop on Veridical Data Science (lightning talk), May 2024 IMS International Conference on Statistics and Data Science (ICSDS), December 2023 Stanford-Berkeley Joint Colloquium Student Seminar, October 2023 Causality in Practice Conference (Thematic Quarter on Causality), June 2023 Model-Free Selective Inference: From Calibrated Uncertainty to Trusted Decisions</description>
     </item>
     <item>
       <title>Teaching</title>
