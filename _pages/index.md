@@ -37,7 +37,7 @@ I work on statistical problems related to two main themes:
 - **Uncertainty quantification**    
 I develop methods to quantify and control the uncertainty of black-box AI models for their confident deployment in critical domains. 
 <!-- Specifically, I think about what guarantees are meaningful, how to achieve them with easy-to-use, widely-applicable methods, and their applications in biomedical discovery and human decisions.  -->
-My recent work  integrates <span style="font-weight:600;">selective inference</span> ideas into <span style="font-weight:600;">conformal prediction</span>, with the goal of enabling trusted decision-making based on uncertainty principles. 
+My recent work  integrates  selective inference ideas into conformal prediction, with the goal of enabling trusted decision-making based on uncertainty principles. 
 One example is [Conformal Selection](https://arxiv.org/abs/2210.01408) using multiple testing ideas to find unlabeled instances with "good" labels, such as [active drugs](https://arxiv.org/abs/2210.01408) and [trustable LLM outputs](https://arxiv.org/abs/2405.10301), which can then be acted upon with confidence.
 <!-- I also work on their applications in biomedical discovery and human decisions.  -->
 Related projects: 
@@ -51,7 +51,7 @@ Related projects:
 - **Generalizability and robustness**   
 I am interested in understanding the generalization and robustness of statistical findings across datasets, populations, and contexts. 
 <!-- Specifically, I study the (empirical) nature of real distribution shifts, models to describe them, and methods to protect against or adapt to them in generalizing treatment effects, replicating causal experiments, and learning decision rules. Related projects: -->
-My recent works study the <span style="font-weight:600;">empirical nature</span> of distribution shifts in large-scale replication projects. I also work on methods that address distribution shifts in generalizing treatment effects, learning causal decision rules, and combining datasets. Related projects: 
+My recent works study the empirical nature of distribution shifts in large-scale replication projects. I also work on methods that address distribution shifts in generalizing treatment effects, learning causal decision rules, and combining datasets. Related projects: 
   - <span style="font-size:14px;">Empirical distribution shifts in causal effect generalization</span> <span style="font-size:13px;">[[paper 1](https://arxiv.org/pdf/2309.01056.pdf), [paper 2](https://arxiv.org/pdf/2412.08869.pdf), [blog](research/predictive-shift/)]</span>
   <!-- - <span style="font-size:14px;">Generalization of causal inference</span>  <span style="font-size:13px;">[]</span> -->
   - <span style="font-size:14px;">Robust design and analysis of observational studies</span>  <span style="font-size:13px;">[[conformal sensitivity analysis](https://arxiv.org/pdf/2111.12161.pdf), [f-sensitivity](https://arxiv.org/pdf/2203.04373.pdf)]</span>
