@@ -8,10 +8,12 @@ layout: archive
 ## Research Interests
 
 
-- Conformal prediction
+- Conformal inference
 - Causal inference 
 - Multiple hypothesis testing 
 - Distributional robustness, generalizability, and replicability
+
+<!-- This page organizes my papers by year.  See papers by topic [here](/publication_topic/). -->
 
 <p style="margin-bottom: 20px;"> </p>
 ---- 
@@ -24,6 +26,20 @@ layout: archive
 <span style="font-size:13px">(* equal contribution or alphabetical order)</span>
 
 
+<p style="margin-bottom: -10px;"> </p>
+
+#### 2025
+
+<p style="margin-bottom: 20px;"> </p>
+
+<!-- <span style="font-size:15px;font-weight: 600;">Selectively trusting models with general risk control via conformal e-values</span>    
+<span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;">, 2025. [Arxiv](https://arxiv.org/abs/2412.08869) | [GitHub](https://github.com/ying531/predictive-shift)</span>  -->
+
+<span style="font-size:15px;font-weight: 600;">Automated hypothesis validation with agentic sequential falsifications</span>   
+ <span style="font-size:14px;">Kexin Huang\*, </span><span style="font-size:14px;font-weight:500;">Ying Jin\*</span><span style="font-size:14px;">, Ryan Li\*, Michael Li, Emmanuel Candès, and Jure Leskovec, 2025. [Arxiv](https://arxiv.org/pdf/2502.09858) | [GitHub](https://github.com/snap-stanford/POPPER)</span> 
+
+<p style="margin-bottom: 20px;"> </p>
+----
 <p style="margin-bottom: -10px;"> </p>
 
 #### 2024
@@ -47,7 +63,7 @@ layout: archive
 <p style="margin-bottom: -3px;"> </p>
 
 <span style="font-size:15px;font-weight: 600;">Confidence on the focal: Conformal prediction with selection-conditional coverage</span>   
- <span style="font-size:14px;font-weight:500;">Ying Jin\*</span><span style="font-size:14px;"> and Zhimei Ren\*, 2024. [Arxiv](https://arxiv.org/abs/2403.03868) | [GitHub](https://github.com/ying531/JOMI-paper)</span> 
+ <span style="font-size:14px;font-weight:500;">Ying Jin\*</span><span style="font-size:14px;"> and Zhimei Ren\*, 2024.</span>  <span style="font-size:14px;">[Arxiv](https://arxiv.org/abs/2403.03868) | [GitHub](https://github.com/ying531/JOMI-paper)</span> 
  
 
 <p style="margin-bottom: 20px;"> </p>
