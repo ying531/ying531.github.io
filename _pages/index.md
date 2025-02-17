@@ -42,7 +42,7 @@ One example is [Conformal Selection](https://arxiv.org/abs/2210.01408) using mul
 <!-- I also work on their applications in biomedical discovery and human decisions.  -->
 Related projects: 
   - <span style="font-size:14px;">Methodologies in conformal selection</span> <span style="font-size:13px;">[[Conformal Selection](https://arxiv.org/abs/2210.01408), [weighted CS](https://arxiv.org/abs/2307.09291), [optimize CS](https://arxiv.org/abs/2411.17983), [post-selection conformal inference](https://arxiv.org/abs/2403.03868)]</span>
-  - <span style="font-size:14px;">Applications in AI-driven drug discovery</span> <span style="font-size:13px;"></span>
+  - <span style="font-size:14px;">Applications in AI-driven drug discovery</span> <span style="font-size:13px;">[[slides](/assets/files/slides_dd.pdf)]</span>
   - <span style="font-size:14px;">Methods & applications in selective trust of AI models</span> <span style="font-size:13px;">[[Conformal alignment](https://arxiv.org/abs/2405.10301)]</span>
   - <span style="font-size:14px;">Automatic active scientific discovery with LLM agents</span> <span style="font-size:13px;">[[Popper](https://arxiv.org/pdf/2502.09858)]</span>   
 
