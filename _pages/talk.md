@@ -6,10 +6,16 @@ layout: archive
 ---
 
 ---
- 
+
+- **Empirical Evidence on the Predictive Role of Covariate Shift in Effect Generalization**   
+  - *Joint Conference on Statistics and Data Science, China, July 2025*  
+  - *2025 WNAR/IMS Annual Meeting, June 2025*
+
+<span> </span>
 
 - **Conformal Alignment: Knowing When to Trust Foundation Models with Guarantees**  
   - *ENAR Annual Meeting, March 2025*  
+  - *IMSI Long Program on Uncertainty Quantification and Artifical Intelligence, March 2025* 
   - *International Conference on Statistics and Data Science, December 2024*  
   - *ASA Conference on Statistical Learning and Data Science, November 2024* 
   - *Data Science and Engineering Lab, Michigan State Universty, October 2024*  
