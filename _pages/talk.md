@@ -7,6 +7,12 @@ layout: archive
 
 ---
 
+- **POPPER: Automated Hypothesis Validation with Agentic Sequential Falsifications**   
+  - *Online International Seminar on Selective Inference, April 2025*   
+
+<span> </span>
+
+
 - **Empirical Evidence on the Predictive Role of Covariate Shift in Effect Generalization**   
   - *Joint Conference on Statistics and Data Science, China, July 2025*  
   - *2025 WNAR/IMS Annual Meeting, June 2025*

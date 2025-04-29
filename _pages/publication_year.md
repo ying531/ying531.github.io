@@ -1,5 +1,5 @@
 ---
-title: Research
+title: Papers
 permalink: /publication_year/ 
 classes: wide
 layout: archive
@@ -64,7 +64,7 @@ layout: archive
 
 <span style="font-size:15px;font-weight: 600;">Confidence on the focal: Conformal prediction with selection-conditional coverage</span>   
  <span style="font-size:14px;font-weight:500;">Ying Jin\*</span><span style="font-size:14px;"> and Zhimei Ren\*, 2024.</span>  
- <span style="color:grey;font-size:14px;">Journal of the Royal Statistical Society: Series B (JRSS-B), accepted.</span> <span style="font-size:14px;">[Arxiv](https://arxiv.org/abs/2403.03868) | [GitHub](https://github.com/ying531/JOMI-paper)</span> 
+ <span style="color:grey;font-size:14px;">Journal of the Royal Statistical Society: Series B (JRSS-B), 2025+.</span> <span style="font-size:14px;">[Arxiv](https://arxiv.org/abs/2403.03868) | [GitHub](https://github.com/ying531/JOMI-paper)</span> 
  
 
 <p style="margin-bottom: 20px;"> </p>
@@ -104,7 +104,7 @@ layout: archive
 
 <span style="font-size:15px;font-weight: 600;">Policy learning "without" overlap: pessimism and generalized empirical Bernstein's inequality</span>          
   <span style="font-size:14px;font-weight:500;">Ying Jin\*</span><span style="font-size:14px;">, Zhimei Ren\*, Zhuoran Yang, and Zhaoran Wang, 2022.</span>    
-  <span style="color:grey;font-size:14px;">Annals of Statistics, accepted.</span>  <span style="font-size:14px;">[Arxiv](https://arxiv.org/abs/2212.09900) | [an article on this work](https://gerben-oostra.medium.com/policy-learning-without-overlap-is-it-possible-c304dec76240)</span>
+  <span style="color:grey;font-size:14px;">Annals of Statistics, 2025+.</span>  <span style="font-size:14px;">[Arxiv](https://arxiv.org/abs/2212.09900) | [an article on this work](https://gerben-oostra.medium.com/policy-learning-without-overlap-is-it-possible-c304dec76240)</span>
 
 <p style="margin-bottom: -3px;"> </p>
 
