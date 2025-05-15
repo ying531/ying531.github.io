@@ -36,7 +36,8 @@ layout: archive
 <span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;">, 2025. [Arxiv](https://arxiv.org/abs/2412.08869) | [GitHub](https://github.com/ying531/predictive-shift)</span>  -->
 
 <span style="font-size:15px;font-weight: 600;">Automated hypothesis validation with agentic sequential falsifications</span>   
- <span style="font-size:14px;">Kexin Huang\*, </span><span style="font-size:14px;font-weight:500;">Ying Jin\*</span><span style="font-size:14px;">, Ryan Li\*, Michael Li, Emmanuel Candès, and Jure Leskovec, 2025. [Arxiv](https://arxiv.org/pdf/2502.09858) | [GitHub](https://github.com/snap-stanford/POPPER)</span> 
+ <span style="font-size:14px;">Kexin Huang\*, </span><span style="font-size:14px;font-weight:500;">Ying Jin\*</span><span style="font-size:14px;">, Ryan Li\*, Michael Li, Emmanuel Candès, and Jure Leskovec, 2025.   
+ <span style="color:grey;font-size:14px;">International Conference on Machine Learning (ICML), 2025. </span>[Arxiv](https://arxiv.org/pdf/2502.09858) | [GitHub](https://github.com/snap-stanford/POPPER)</span> 
 
 <p style="margin-bottom: 20px;"> </p>
 ----
