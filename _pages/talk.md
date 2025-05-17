@@ -9,20 +9,23 @@ layout: archive
 
 - **POPPER: Automated Hypothesis Validation with Agentic Sequential Falsifications**   
   - *Online International Seminar on Selective Inference, April 2025*   
+  - *International Conference on Multiple Comparison Procedures (MCP), August 2025* 
+  - *International Conference on Statistics and Data Science (ICSDS), December 2025*
 
 <span> </span>
 
 
 - **Empirical Evidence on the Predictive Role of Covariate Shift in Effect Generalization**   
   - *Joint Conference on Statistics and Data Science, China, July 2025*  
-  - *2025 WNAR/IMS Annual Meeting, June 2025*
+  - *2025 WNAR/IMS Annual Meeting, June 2025* (cancelled due to visa issue) 
+  - *Harvard Applied Statistics Workshop, September 2024*
 
 <span> </span>
 
 - **Conformal Alignment: Knowing When to Trust Foundation Models with Guarantees**  
   - *ENAR Annual Meeting, March 2025*  
   - *IMSI Long Program on Uncertainty Quantification and Artifical Intelligence, March 2025* 
-  - *International Conference on Statistics and Data Science, December 2024*  
+  - *International Conference on Statistics and Data Science (ICSDS), December 2024*  
   - *ASA Conference on Statistical Learning and Data Science, November 2024* 
   - *Data Science and Engineering Lab, Michigan State Universty, October 2024*  
   - *Joint Conference on Statistics and Data Science, China, July 2024*
@@ -35,8 +38,7 @@ layout: archive
 <span> </span>
 
 
-- **Diagnosing the Role of Distribution Shift in Effect Generalization with Scientific Replication Data**    
-  - *Harvard Applied Statistics Workshop, September 2024* 
+- **Diagnosing the Role of Distribution Shift in Effect Generalization with Scientific Replication Data**     
   - *Joint Statistical Meetings, August 2024*  
   - *Inaugural Berkeley-Stanford Workshop on Veridical Data Science (lightning talk), May 2024*
   - *IMS International Conference on Statistics and Data Science (ICSDS), December 2023*

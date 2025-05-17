@@ -31,9 +31,12 @@ layout: archive
 #### 2025
 
 <p style="margin-bottom: 20px;"> </p>
+<!-- 
+<span style="font-size:15px;font-weight: 600;">Guaranteed molecule generation via conformal nested testing</span>   
+ <span style="font-size:14px;">Siddhartha Laghuvarapu, </span><span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;">, and Jimeng Sun, 2025.    
 
-<!-- <span style="font-size:15px;font-weight: 600;">Selectively trusting models with general risk control via conformal e-values</span>    
-<span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;">, 2025. [Arxiv](https://arxiv.org/abs/2412.08869) | [GitHub](https://github.com/ying531/predictive-shift)</span>  -->
+<span style="font-size:15px;font-weight: 600;">Controllable sequence editing for biological and clinical trajectories</span>   
+ <span style="font-size:14px;">Michelle Li, Kevin Li, Yasha Ektefaie, </span><span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;">, Yepeng Huang, Shvat Messica, Tianxi Cai, Marinka Zitnik, 2025.      -->
 
 <span style="font-size:15px;font-weight: 600;">Automated hypothesis validation with agentic sequential falsifications</span>   
  <span style="font-size:14px;">Kexin Huang\*, </span><span style="font-size:14px;font-weight:500;">Ying Jin\*</span><span style="font-size:14px;">, Ryan Li\*, Michael Li, Emmanuel Candès, and Jure Leskovec, 2025.   
@@ -48,12 +51,14 @@ layout: archive
 <p style="margin-bottom: 20px;"> </p>
 
 <span style="font-size:15px;font-weight: 600;">Beyond reweighting: On the predictive role of covariate shift in effect generalization</span>   
- <span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;">, <span style="font-size:14px;">Naoki Egami, and Dominik Rothenhäusler, 2024. [Arxiv](https://arxiv.org/abs/2412.08869) | [GitHub](https://github.com/ying531/predictive-shift)</span> 
+ <span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;">, <span style="font-size:14px;">Naoki Egami, and Dominik Rothenhäusler, 2024. [Arxiv](https://arxiv.org/abs/2412.08869) | [GitHub](https://github.com/ying531/predictive-shift)</span>  
+ <!-- <span style="color:grey;font-size:14px;">Revision requested at Proceedings of the National Academy of Sciences (PNAS).</span>     -->
 
 <p style="margin-bottom: -3px;"> </p>
  
 <span style="font-size:15px;font-weight: 600;">Optimized Conformal Selection: Powerful selective inference after conformity score optimization</span>   
- <span style="font-size:14px;">Tian Bai and </span><span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;">, 2024. [Arxiv](https://arxiv.org/abs/2411.17983) | [GitHub](https://github.com/Tian-Bai/OptCS)</span> 
+ <span style="font-size:14px;">Tian Bai and </span><span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;">, 2024.</span> <span style="font-size:14px;"> [Arxiv](https://arxiv.org/abs/2411.17983) | [GitHub](https://github.com/Tian-Bai/OptCS)</span> 
+ <!-- <span style="color:grey;font-size:14px;">Major revision requested at Journal of the Royal Statistical Society: Series B (JRSS-B).</span>   -->
 
 <p style="margin-bottom: -3px;"> </p>
 
@@ -77,14 +82,15 @@ layout: archive
 <p style="margin-bottom: 20px;"> </p>
 
 <span style="font-size:15px;font-weight: 600;">Diagnosing the role of observable distribution shift in scientific replications</span>          
-  <span style="font-size:14px;font-weight:500;">Ying Jin\*</span><span style="font-size:14px;">, Kevin Guo\*, and Dominik Rothenhäusler, 2023.</span>   
+  <span style="font-size:14px;font-weight:500;">Ying Jin\*</span><span style="font-size:14px;">, Kevin Guo\*, and Dominik Rothenhäusler, 2023.</span>  
+  <!-- <span style="color:grey;font-size:14px;">Minor revision requested at Journal of the Royal Statistical Society: Series C (JRSS-C).</span>     -->
   <span style="font-size:14px;">[Arxiv](https://arxiv.org/abs/2309.01056) | [awesome-replicability-data](https://github.com/ying531/awesome-replicability-data) | [R package](https://github.com/ying531/repDiagnosis) | [shiny app](https://mbzlnj-ying-jin.shinyapps.io/shiny/)</span>
 
 <p style="margin-bottom: -3px;"> </p>
 
 <span style="font-size:15px;font-weight: 600;">Model-free selective inference under covariate shift via weighted conformal p-values</span>    
-  <span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;"> and Emmanuel Candès, 2023.</span>   
-  <span style="font-size:14px;">[Arxiv](https://arxiv.org/abs/2307.09291) | [software and reproduction code](https://github.com/ying531/conformal-selection)</span>
+  <span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;"> and Emmanuel Candès, 2023.</span> <span style="font-size:14px;">[Arxiv](https://arxiv.org/abs/2307.09291) | [software and reproduction code](https://github.com/ying531/conformal-selection)</span>  
+  <!-- <span style="color:grey;font-size:14px;">Minor revision requested at Biometrika.</span>   -->
 
 <p style="margin-bottom: -3px;"> </p>
 

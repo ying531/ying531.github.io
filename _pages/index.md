@@ -36,9 +36,8 @@ I work on statistical problems related to two main themes:
 
 - **Uncertainty quantification**    
 I develop methods to quantify and control the uncertainty of AI models, aiming for their principled use in high-stakes domains like [drug discovery](https://arxiv.org/abs/2210.01408), [medical AI](https://arxiv.org/abs/2405.10301), and [automated scientific discovery](https://arxiv.org/pdf/2502.09858). 
-<!-- Specifically, I think about what guarantees are meaningful, how to achieve them with easy-to-use, widely-applicable methods, and their applications in biomedical discovery and human decisions.  -->
-<!-- My recent work  integrates  selective inference ideas into conformal prediction to make AI decisions more reliable.  -->
-One focus is [conformal selection](https://arxiv.org/abs/2210.01408), which finds unlabeled instances with "good" labels---such as active molecules and trustworthy LLM outputs---that can be acted upon with confidence (see also extensions to [covariate shift](https://arxiv.org/abs/2307.09291), [model optimization](https://arxiv.org/abs/2411.17983), and [post-selection conformal inference](https://arxiv.org/abs/2403.03868)). Recently, I have also been exploring statistical inference in automated scientific discovery with [AI agents](https://arxiv.org/pdf/2502.09858). 
+One focus is [conformal selection](https://arxiv.org/abs/2210.01408), which finds unlabeled instances with "good" labels---such as active molecules and trustworthy LLM outputs---that can be acted upon with confidence. 
+Recently, I have also been exploring statistical inference in automated scientific discovery with [AI agents](https://arxiv.org/pdf/2502.09858). 
 
  <p style="margin-top: -5px;"></p> 
 
@@ -47,7 +46,7 @@ I am interested in the generalization and robustness of statistical findings acr
 <!-- Specifically, I study the (empirical) nature of real distribution shifts, models to describe them, and methods to protect against or adapt to them in generalizing treatment effects, replicating causal experiments, and learning decision rules. Related projects: -->
 My recent works study the empirical patterns of [distribution shifts](https://arxiv.org/abs/2412.08869) in large-scale replication studies. I also develop methods that address distribution shifts in [generalizing treatment effects](https://arxiv.org/abs/2104.04565), learning [causal decision rules](https://arxiv.org/abs/2212.09900), and [combining datasets](https://arxiv.org/abs/2211.10032).  
 
-These questions lead me to the fields of conformal prediction, causal inference, and multiple testing.
+These questions lead me to the fields of conformal prediction, causal inference, and multiple testing. 
  
 
 
@@ -63,6 +62,8 @@ These questions lead me to the fields of conformal prediction, causal inference,
 
 ## News
 
+- **May 2025**: I'm organizing an invited session on <span style="font-size:15px;font-weight: 480;">generalizability, transportability, and distribution shift</span> at [ACIC 2025](https://sci-info.org/2025-meeting/)!  
+<p style="margin-top: 0px; margin-bottom: -4px;"></p> 
 - **Apr 2025**: I gave a talk on our [POPPER](https://arxiv.org/pdf/2502.09858) agent framework at the International Seminar on Selective Inference! [[slides](/assets/files/Popper_handout.pdf)] [[recording](https://drive.google.com/file/d/1avr-bfxPLU3ohSkl6xZnhn2BLX7xzYOb/view)]
 <p style="margin-top: 0px; margin-bottom: -4px;"></p> 
 - **Feb 2025**: Imagine LLM agents for scientific discovery---agents that autonomously gather knowledge by creative reasoning and flexible tool use. How to ensure the soundness of what they acquire? We propose [POPPER](https://arxiv.org/pdf/2502.09858), a framework where LLM agents design sequential experiments, collect  data, and accumulate statistical evidence to validate a free-form hypothesis with error control! 
