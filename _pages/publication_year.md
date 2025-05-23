@@ -134,7 +134,8 @@ layout: archive
 <p style="margin-bottom: -3px;"> </p>
 
 <span style="font-size:15px;font-weight: 600;">Sensitivity analysis under the f-sensitivity models: a distributional robustness perspective</span>        
-  <span style="font-size:14px;font-weight:500;">Ying Jin\*</span><span style="font-size:14px;">, Zhimei Ren\*, and Zhengyuan Zhou, 2022. [Arxiv](https://arxiv.org/abs/2203.04373)</span>  
+  <span style="font-size:14px;font-weight:500;">Ying Jin\*</span><span style="font-size:14px;">, Zhimei Ren\*, and Zhengyuan Zhou, 2022.  
+  <span style="color:grey;font-size:14px;">Operations Research, 2025+.</span> [Arxiv](https://arxiv.org/abs/2203.04373)</span>  
   <span style="font-size:14px;">*Student Paper Award at ICSA Applied Statistics Symposium, 2022*.</span>
 
 
