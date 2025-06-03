@@ -1,0 +1,11 @@
+{% assign pubgroups = site.data.publications.references 
+  | group_by_exp: "item", "item.issued.first.year | append: '/' | append: item.issued.first.month | append: '/' | append: item.issued.first.day | date: '%Y-%m-%d'" 
+  | sort: "name" 
+  | reverse 
+%} 
+
+{% assign pubs_by_date = '' | split: '' %}
+
+{% for pubs in pubgroups %}
+  {% assign pubs_by_date = pubs_by_date | concat: pubs.items %}
+{% endfor %}

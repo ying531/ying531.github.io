@@ -1,0 +1,16 @@
+{% include pubs_by_date.html %}
+
+{% assign pubs_by_author = '' %}
+
+{% for paper in pubs_by_date %}
+  {% assign include_paper = false %}
+  {% for author in paper.author %}
+    {% if author.given[0] == include.given[0] and author.family == include.family %}
+      {% assign include_paper = true %}
+    {% endif %}
+  {% endfor %}
+  {% if include_paper %}
+    {% assign pubs_by_author = pubs_by_author |  append: paper.id | append: "," %}
+  {% endif %}
+{% endfor %}
+{% assign pubs_by_author = pubs_by_author | split: "," %}

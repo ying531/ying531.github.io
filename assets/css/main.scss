@@ -1,0 +1,237 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+a {
+  color: #2D87C8 !important;
+  text-decoration: none;
+    cursor: pointer;
+  &:hover, &:active {
+    color: #2D87C8 !important;
+}
+}
+.masthead__menu a {
+  color: #000 !important; // Black color for menu links
+  text-decoration: none; // Optional: remove underline if needed
+  font-size: 18px;
+}
+
+.masthead__menu a:hover, .masthead__menu a:active {
+  color: #000; // Ensure hover and active states are black
+}
+
+  
+
+$monospace: Monaco, Consolas, "Lucida Console", monospace !default;
+$caption-font-family: $monospace !default;
+
+$color: #2D87C8 !default;
+
+$info-color: #2D87C8 !default;
+$link-color: #2D87C8 !default; 
+$link-color-hover           : mix(#000, $link-color, 25%) !default;
+$link-color-visited         : mix(#fff, $link-color, 25%) !default;
+// $info-color: #0070E0 !default; // chrome default color
+// $link-color: mix(#000, $info-color, 10%) !default;
+// $link-color: $info-color !default;
+// $link-color: #0070E0 !default; // chrome default color
+// $link-color: $info-color !default; // chrome default color
+
+.fa-cog {
+  color: black !important;
+}
+.icon-cog {
+  color: black !important;
+}
+
+body {
+  font-size: 15px; // Adjust this value to whatever size you need
+  color: #000;
+}
+
+.archive__subtitle {
+  font-size: 1.25em;
+}
+
+.archive__item-title { 
+  font-size: 16px;
+  margin-top: 15px;
+}
+
+html {
+    /* apply a natural box layout model to all elements */
+    box-sizing: border-box;
+    background-color: $background-color;
+    font-size: 12px; // originally 16px
+
+    ul li { padding: -5px 0px -5px;
+      margin-bottom: 1px; }
+  // li:first-child { margin-bottom: 0px; }
+  
+    @include breakpoint($medium) {
+      // font-size: 18px;
+      font-size: 12px;
+    }
+  
+    @include breakpoint($large) {
+      // font-size: 20px;
+      font-size: 14px;
+    }
+  
+    @include breakpoint($x-large) {
+      // font-size: 22px;
+      font-size: 16px;
+    }
+  }
+
+ 
+ 
+  .footnote {
+    // color: mix(#fff, $gray, 25%);
+    color: black;
+    text-decoration: none;
+  }
+  
+  .footnotes {
+    // color: mix(#fff, $gray, 25%);
+    color: black;
+  
+    ol,
+    li,
+    p {
+      margin-bottom: 0;
+      font-size: $type-size-5;
+    }
+  }
+
+  .centered-content figure {
+    display: flex;
+    flex-direction: column; /* Ensure caption stays below the image */
+    align-items: center;    /* Horizontally centers the image and caption */
+    margin: 20px auto;      /* Centers the figure itself and adds vertical spacing */
+  }
+
+
+  // .pubitem {
+  //   margin-bottom: 2em;
+  //   line-height: 1em;
+  // }
+  
+  // .pubtitle {
+  //   margin-bottom: .5em;
+  //   line-height: 1.2em;
+  //   font-weight: bold;
+  // }
+  
+  // .pubauthors, .pubinfo, .pubjournal {
+  //   font-size: 80%;
+  //   margin-bottom: .75em;
+  // }
+  
+  // .pubjournal {
+  //   font-style:italic;
+  // }
+  
+  // .publinks {
+  //   font-size: 80%;
+  // }
+  
+  // // remove underline from links
+  // // a:link {
+  // //       text-decoration: none;
+  // // }
+  
+  // // a:visited {
+  // //       text-decoration: none;
+  // // }
+  
+  // // a:hover {
+  // //       text-decoration: underline;
+  // // }
+  
+  // // a:active {
+  // //       text-decoration: none;
+  // // }
+  
+  // // make the grid items 3 across instead of 4
+  // .grid__item {
+  
+  // //   @include breakpoint($small) {
+  // //     float: left;
+  // //     width: span(5 of 10);
+  
+  // //     &:nth-child(2n + 1) {
+  // //       // clear: both;
+  // //       // margin-left: 0;
+  // //     }
+  
+  // //     &:nth-child(2n + 2) {
+  // //       // clear: none;
+  // //       // margin-left: gutter(of 10);
+  // //     }
+  // //   }
+  
+  //   @include breakpoint($medium) {
+  //     margin-left: 0; /* override margin*/
+  //     margin-right: 0; /* override margin*/
+  //     width: span(4 of 12);
+  
+  //     &:nth-child(2n + 1) {
+  //       clear: none;
+  //     }
+  
+  //     &:nth-child(3n + 1) {
+  //       clear: both;
+  //       // clear: none;
+  //       // margin-left: gutter(1 of 12);
+  //     }
+  
+  //     // &:nth-child(3n + 2) {
+  //       // clear: none;
+  //       // margin-left: gutter(of 12);
+  //     // }
+  
+  //     // &:nth-child(3n + 3) {
+  //       // clear: none;
+  //       // margin-left: gutter(1 of 12);
+  //     // }
+  // //////////////////////////////////////// original settings
+  //     // &:nth-child(2n + 1) {
+  //     //   // clear: none;
+  //     // }
+  
+  //     // &:nth-child(4n + 1) {
+  //     //   // clear: both;
+  //     // }
+  
+  //     // &:nth-child(4n + 2) {
+  //     //   clear: none;
+  //     //   // margin-left: gutter(1 of 12);
+  //     // }
+  
+  //     // &:nth-child(4n + 3) {
+  //       // clear: none;
+  //       // margin-left: gutter(1 of 12);
+  //     // }
+  
+  //     // &:nth-child(4n + 4) {
+  //       // clear: none;
+  //       // margin-left: gutter(1 of 12);
+  //     // }
+  //   }
+  
+  // }
+  
+  // // make notices a little bigger
+  // .notice {
+  //   font-size: $type-size-5 !important;
+  // }
+  // .notice--info {
+  //   font-size: $type-size-5 !important;
+  // }

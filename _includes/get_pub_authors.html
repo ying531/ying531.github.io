@@ -1,0 +1,10 @@
+{% assign pub = site.data.publications.references 
+    | where: "id", include.pubid | first %}
+{%- assign authors = '' -%}
+{% for author in pub.author %}
+    {% assign authors = authors | append: author.given | append: ' ' | append: author.family %}
+    {% if forloop.index < pub.author.size - 1 %}
+        {% assign authors = authors | append: ', ' %}
+    {% endif %}
+{% endfor %}
+{{- authors -}}

@@ -1,0 +1,14 @@
+---
+layout: default
+---
+<div id="main" role="main">
+  {% include sidebar.html %}
+
+  <div class="archive">
+    {% assign pub = page %}
+
+    {% include pub-single.html  %}
+
+    {{ content }}
+  </div>
+</div>
