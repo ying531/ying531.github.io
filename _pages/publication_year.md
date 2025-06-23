@@ -31,12 +31,16 @@ layout: archive
 #### 2025
 
 <p style="margin-bottom: 20px;"> </p>
-<!-- 
-<span style="font-size:15px;font-weight: 600;">Guaranteed molecule generation via conformal nested testing</span>   
- <span style="font-size:14px;">Siddhartha Laghuvarapu, </span><span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;">, and Jimeng Sun, 2025.    
 
-<!-- <span style="font-size:15px;font-weight: 600;">Controllable sequence editing for biological and clinical trajectories</span>    -->
- <!-- <span style="font-size:14px;">Michelle Li, Kevin Li, Yasha Ektefaie, </span><span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;">, Yepeng Huang, Shvat Messica, Tianxi Cai, Marinka Zitnik, 2025.      -->  
+
+<span style="font-size:15px;font-weight: 600;">Diversifying conformal selections</span>   
+ <span style="font-size:14px;">Yash Nair, </span><span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;">, James Yang, and Emmanuel Candès, 2025. [Arxiv](https://arxiv.org/abs/2506.16229) | [GitHub](https://github.com/Yashnair123/diverseSelect)   
+ 
+<!-- <span style="font-size:15px;font-weight: 600;">Guaranteed molecule generation via conformal nested testing</span>   
+ <span style="font-size:14px;">Siddhartha Laghuvarapu, </span><span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;">, and Jimeng Sun, 2025.     -->
+
+<span style="font-size:15px;font-weight: 600;">Controllable sequence editing for biological and clinical trajectories</span>   
+ <span style="font-size:14px;">Michelle Li, Kevin Li, Yasha Ektefaie, </span><span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;">, Yepeng Huang, Shvat Messica, Tianxi Cai, Marinka Zitnik, 2025. [Arxiv](https://arxiv.org/abs/2502.03569) | [GitHub](https://github.com/mims-harvard/CLEF)</span>      
 
 <span style="font-size:15px;font-weight: 600;">Automated hypothesis validation with agentic sequential falsifications</span>   
  <span style="font-size:14px;">Kexin Huang\*, </span><span style="font-size:14px;font-weight:500;">Ying Jin\*</span><span style="font-size:14px;">, Ryan Li\*, Michael Li, Emmanuel Candès, and Jure Leskovec, 2025.   
@@ -52,7 +56,7 @@ layout: archive
 
 <span style="font-size:15px;font-weight: 600;">Beyond reweighting: On the predictive role of covariate shift in effect generalization</span>   
  <span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;">, <span style="font-size:14px;">Naoki Egami, and Dominik Rothenhäusler, 2024. [Arxiv](https://arxiv.org/abs/2412.08869) | [GitHub](https://github.com/ying531/predictive-shift)</span>  
- <!-- <span style="color:grey;font-size:14px;">Revision requested at Proceedings of the National Academy of Sciences (PNAS).</span>     -->
+  <!-- <span style="color:grey;font-size:14px;">Revision requested at Proceedings of the National Academy of Sciences (PNAS).</span>    -->
 
 <p style="margin-bottom: -3px;"> </p>
  
