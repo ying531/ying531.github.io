@@ -11,10 +11,9 @@ classes: wide
 # About me
 
  <!-- <p style="margin-top: 0px; margin-bottom: 50px;"></p>  -->
-Hi! I'm Ying. I am currently a Wojcicki-Troper Postdoctoral Fellow at [Harvard Data Science Initiative](https://datascience.harvard.edu/), where I have the fortune to be mentored by Professor [José Zubizarreta](http://jrzubizarreta.com/) and also work with Professor [Marinka Zitnik](https://zitniklab.hms.harvard.edu/). 
+Hi! I'm Ying. I am an Assistant Professor in the Department of Statistics and Data Science at the Wharton School, University of Pennsylvania. 
 
-Starting July 2025, I will be an Assistant Professor in the Department of Statistics and Data Science at the Wharton School, University of Pennsylvania. 
-I obtained my PhD in Statistics from Stanford University in 2024, advised by Professors [Emmanuel Candès](https://candes.su.domains/) and [Dominik Rothenhäusler](https://sites.google.com/view/rothenhaeusler/home?authuser=0). Prior to that, I studied Mathematics at Tsinghua University. Here are my [CV](/assets/files/cv_yj.pdf), [Github](https://github.com/ying531) and [Google scholar](https://scholar.google.com/citations?user=lT5KFUkAAAAJ&hl=en) pages. 
+I obtained my PhD in Statistics from Stanford University in 2024, advised by Professors [Emmanuel Candès](https://candes.su.domains/) and [Dominik Rothenhäusler](https://sites.google.com/view/rothenhaeusler/home?authuser=0). Prior to that, I studied Mathematics at Tsinghua University. Before joining Wharton, I spent one year as a Wojcicki-Troper Postdoctoral Fellow at [Harvard Data Science Initiative](https://datascience.harvard.edu/), where I had the fortune to be mentored by Professor [José Zubizarreta](http://jrzubizarreta.com/) and also worked with Professor [Marinka Zitnik](https://zitniklab.hms.harvard.edu/). Here are my [CV](/assets/files/cv_yj.pdf), [Github](https://github.com/ying531) and [Google scholar](https://scholar.google.com/citations?user=lT5KFUkAAAAJ&hl=en) pages. 
 
 
 I currently help organize the [Online Causal Inference Seminar](https://sites.google.com/view/ocis/). 
