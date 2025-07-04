@@ -13,7 +13,7 @@ classes: wide
  <!-- <p style="margin-top: 0px; margin-bottom: 50px;"></p>  -->
 Hi! I'm Ying. I am an Assistant Professor in the Department of Statistics and Data Science at the Wharton School, University of Pennsylvania. 
 
-I obtained my PhD in Statistics from Stanford University in 2024, advised by Professors [Emmanuel Candès](https://candes.su.domains/) and [Dominik Rothenhäusler](https://sites.google.com/view/rothenhaeusler/home?authuser=0). Prior to that, I studied Mathematics at Tsinghua University. Before joining Wharton, I spent one year as a Wojcicki-Troper Postdoctoral Fellow at [Harvard Data Science Initiative](https://datascience.harvard.edu/), where I had the fortune to be mentored by Professor [José Zubizarreta](http://jrzubizarreta.com/) and also worked with Professor [Marinka Zitnik](https://zitniklab.hms.harvard.edu/). Here are my [CV](/assets/files/cv_yj.pdf), [Github](https://github.com/ying531) and [Google scholar](https://scholar.google.com/citations?user=lT5KFUkAAAAJ&hl=en) pages. 
+I obtained my PhD in Statistics from Stanford University in 2024, advised by Professors [Emmanuel Candès](https://candes.su.domains/) and [Dominik Rothenhäusler](https://sites.google.com/view/rothenhaeusler/home?authuser=0). Prior to that, I studied Mathematics at Tsinghua University. Before joining Wharton, I spent one year as a Wojcicki-Troper Postdoctoral Fellow at [Harvard Data Science Initiative](https://datascience.harvard.edu/), where I had the fortune to be mentored by Professor [José Zubizarreta](http://jrzubizarreta.com/) and also worked with Professor [Marinka Zitnik](https://zitniklab.hms.harvard.edu/). 
 
 
 I currently help organize the [Online Causal Inference Seminar](https://sites.google.com/view/ocis/). 
@@ -26,11 +26,11 @@ I currently help organize the [Online Causal Inference Seminar](https://sites.go
  <p style="margin-top: -20px;"></p> 
  
 
-## Research interests
+<!-- ## Research interests -->
 
 
  
-
+<!-- 
 I work on statistical problems related to two main themes:
 
 - **Uncertainty quantification**    
@@ -41,19 +41,18 @@ Recently, I have also been exploring statistical inference in automated scientif
  <p style="margin-top: -5px;"></p> 
 
 - **Generalizability and robustness**   
-I am interested in the generalization and robustness of statistical findings across datasets, populations, and contexts. 
-<!-- Specifically, I study the (empirical) nature of real distribution shifts, models to describe them, and methods to protect against or adapt to them in generalizing treatment effects, replicating causal experiments, and learning decision rules. Related projects: -->
+I am interested in the generalization and robustness of statistical findings across datasets, populations, and contexts.  
 My recent works study the empirical patterns of [distribution shifts](https://arxiv.org/abs/2412.08869) in large-scale replication studies. I also develop methods that address distribution shifts in [generalizing treatment effects](https://arxiv.org/abs/2104.04565), learning [causal decision rules](https://arxiv.org/abs/2212.09900), and [combining datasets](https://arxiv.org/abs/2211.10032).  
 
 These questions lead me to the fields of conformal prediction, causal inference, and multiple testing. 
  
-
+ -->
 
 <!-- <p style="margin-top: 0px; margin-bottom: 50px;"></p> -->
 <!--  </br> </br>
  &nbsp;   -->
  
-
+<!-- 
 ---
 
 <p style="margin-top: -20px;"></p> 
@@ -91,7 +90,7 @@ These questions lead me to the fields of conformal prediction, causal inference,
 
 Beyond academics, I love traveling and photography in my free time. See my [photography gallery](https://www.flickr.com/people/191232754@N08/)! 
   
----
+--- -->
 
 ## Education
 

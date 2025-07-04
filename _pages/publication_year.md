@@ -38,9 +38,9 @@ layout: archive
  
 <!-- <span style="font-size:15px;font-weight: 600;">Guaranteed molecule generation via conformal nested testing</span>   
  <span style="font-size:14px;">Siddhartha Laghuvarapu, </span><span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;">, and Jimeng Sun, 2025.     -->
-
+<!-- 
 <span style="font-size:15px;font-weight: 600;">Controllable sequence editing for biological and clinical trajectories</span>   
- <span style="font-size:14px;">Michelle Li, Kevin Li, Yasha Ektefaie, </span><span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;">, Yepeng Huang, Shvat Messica, Tianxi Cai, Marinka Zitnik, 2025. [Arxiv](https://arxiv.org/abs/2502.03569) | [GitHub](https://github.com/mims-harvard/CLEF)</span>      
+ <span style="font-size:14px;">Michelle Li, Kevin Li, Yasha Ektefaie, </span><span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;">, Yepeng Huang, Shvat Messica, Tianxi Cai, Marinka Zitnik, 2025. [Arxiv](https://arxiv.org/abs/2502.03569) | [GitHub](https://github.com/mims-harvard/CLEF)</span>       -->
 
 <span style="font-size:15px;font-weight: 600;">Automated hypothesis validation with agentic sequential falsifications</span>   
  <span style="font-size:14px;">Kexin Huang\*, </span><span style="font-size:14px;font-weight:500;">Ying Jin\*</span><span style="font-size:14px;">, Ryan Li\*, Michael Li, Emmanuel Candès, and Jure Leskovec, 2025.   

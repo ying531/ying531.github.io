@@ -6,8 +6,8 @@ main:
   #   url: /research/
   - title: "Papers"
     url: /publication_year/
-  - title: "Talks"
-    url: /talk/
+  # - title: "Talks"
+  #   url: /talk/
   - title: "Teaching"
     url: /teaching/
   - title: 'Posts'
