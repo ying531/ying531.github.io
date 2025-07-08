@@ -193,7 +193,7 @@ layout: archive
 
 
  
-
+<!-- 
 
 <p style="margin-bottom: 20px;"> </p>
 ---
@@ -219,4 +219,4 @@ layout: archive
 
 <span style="font-size:15px;font-weight: 600;">Bayesian symbolic regression</span>    
   <span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px">, Weilin Fu, Jian Kang, Jiadong Guo, and Jian Guo. (undergrad internship project)</span>   
-<span style="color:grey;font-size:14px;">Proceedings of the 9th International Workshop on Statistical Relational Artificial Intelligence, 2020</span>. <span style="font-size:14px">[Arxiv](https://arxiv.org/pdf/1910.08892.pdf)</span>
+<span style="color:grey;font-size:14px;">Proceedings of the 9th International Workshop on Statistical Relational Artificial Intelligence, 2020</span>. <span style="font-size:14px">[Arxiv](https://arxiv.org/pdf/1910.08892.pdf)</span> -->
