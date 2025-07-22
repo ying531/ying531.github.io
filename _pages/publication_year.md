@@ -33,6 +33,11 @@ layout: archive
 <p style="margin-bottom: 20px;"> </p>
 
 
+
+
+<span style="font-size:15px;font-weight: 600;">ACS: An interactive framework for conformal selection</span>   
+ <span style="font-size:14px;">Yu Gui\*, </span><span style="font-size:14px;font-weight:500;">Ying Jin\*</span><span style="font-size:14px;">, Yash Nair, and Zhimei Ren, 2025. [Arxiv](https://arxiv.org/abs/2507.15825)  
+
 <span style="font-size:15px;font-weight: 600;">Diversifying conformal selections</span>   
  <span style="font-size:14px;">Yash Nair, </span><span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;">, James Yang, and Emmanuel Candès, 2025. [Arxiv](https://arxiv.org/abs/2506.16229) | [GitHub](https://github.com/Yashnair123/diverseSelect)   
  
