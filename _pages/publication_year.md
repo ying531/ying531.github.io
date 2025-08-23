@@ -99,7 +99,7 @@ layout: archive
 
 <span style="font-size:15px;font-weight: 600;">Model-free selective inference under covariate shift via weighted conformal p-values</span>    
   <span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;"> and Emmanuel Candès, 2023.</span> <span style="font-size:14px;">[Arxiv](https://arxiv.org/abs/2307.09291) | [software and reproduction code](https://github.com/ying531/conformal-selection)</span>  
-  <!-- <span style="color:grey;font-size:14px;">Minor revision requested at Biometrika.</span>   -->
+  <span style="color:grey;font-size:14px;">Biometrika, accepted, 2025+.</span>  
 
 <p style="margin-bottom: -3px;"> </p>
 
