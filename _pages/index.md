@@ -58,6 +58,12 @@ These questions lead me to the fields of conformal prediction, causal inference,
 
 ## News
 
+- **Sep 2025**: Our [paper](https://arxiv.org/abs/2412.08869) on the *predictive* role of covariate shift in generalizability is accepted to <span style="font-size:15px;font-weight: 480;">PNAS</span>! Analyzing two large-scale multi-site replication projects, it suggests a *predictive*, instead of explanatory, role of covariate shift: it informs the strength of unknown conditional shift, even though it does not explain away all the distribution shift between sites. See my [blog post](research/predictive-shift) here!
+<p style="margin-top: 0px; margin-bottom: -4px;"></p> 
+
+- **Sep 2025**: We are organizing a NeurIPS 2025 workshop on [Causality in Science (CauScien)](https://sites.google.com/view/causcien)!
+<p style="margin-top: 0px; margin-bottom: -4px;"></p> 
+
 - **June 2025**: I'm giving a talk on [optimal variance reduction](https://arxiv.org/abs/2110.13406) in A/B testing at the ASA CPID webinar on June 3! [[Register here](https://lnkd.in/eZzE4486)]  
 <p style="margin-top: 0px; margin-bottom: -4px;"></p> 
 
@@ -66,9 +72,7 @@ These questions lead me to the fields of conformal prediction, causal inference,
 - **Apr 2025**: I gave a talk on our [POPPER](https://arxiv.org/pdf/2502.09858) agent framework at the International Seminar on Selective Inference! [[slides](/assets/files/Popper_handout.pdf)] [[recording](https://drive.google.com/file/d/1avr-bfxPLU3ohSkl6xZnhn2BLX7xzYOb/view)]
 <p style="margin-top: 0px; margin-bottom: -4px;"></p> 
 - **Feb 2025**: Imagine LLM agents for scientific discovery---agents that autonomously gather knowledge by creative reasoning and flexible tool use. How to ensure the soundness of what they acquire? We propose [POPPER](https://arxiv.org/pdf/2502.09858), a framework where LLM agents design sequential experiments, collect  data, and accumulate statistical evidence to validate a free-form hypothesis with error control! 
-<p style="margin-top: 0px; margin-bottom: -4px;"></p> 
-- **Dec 2024**: Recent empirical investigations have challenged the sufficiency of covariate shift adjustment for generalization under distribution shift. How to address what remained unexplained? Analyzing two large-scale multi-site replication projects, our [new paper](https://arxiv.org/abs/2412.08869) suggests a *predictive* role of covariate shift: it informs the strength of unknown conditional shift, which helps generalization! 
-<p style="margin-top: 0px; margin-bottom: -4px;"></p> 
+<p style="margin-top: 0px; margin-bottom: -4px;"></p>  
 - **Nov 2024**: Excited to share [Optimized Conformal Selection](https://arxiv.org/abs/2411.17983) for optimizing/selecting conformity scores to pick as many "interesting" instances as possible (e.g., [active drugs](https://arxiv.org/abs/2210.01408), [trustable LLM outputs](https://arxiv.org/abs/2405.10301)) while maintaining FDR control -- even without sample splitting! 
 <p style="margin-top: 0px; margin-bottom: -4px;"></p> 
 - **Sept 2024**: Outputs from black-box foundation models must align with human values before use. For example, can we ensure only *human-quality* AI-generated medical reports are deferred to doctors? Our paper [Conformal Alignment](https://arxiv.org/abs/2405.10301) is accepted to NeurIPS 2024!

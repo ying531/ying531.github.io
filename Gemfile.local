@@ -1,5 +1,6 @@
 source "https://rubygems.org"
 
+# Local dev Gemfile to avoid native extensions breaking on conda/system Ruby
 gem "json", "~> 2.13"
 gem "csv"
 gem "base64"
@@ -9,7 +10,8 @@ gem "net-pop"
 gem "net-smtp"
 gem "observer"
 gem "pstore"
-gem "resolv-replace"
+# Skip resolv-replace and syslog which require native extensions
 gem "rinda"
-gem "syslog"
+
 gemspec
+

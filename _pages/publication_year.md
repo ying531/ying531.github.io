@@ -61,7 +61,7 @@ layout: archive
 
 <span style="font-size:15px;font-weight: 600;">Beyond reweighting: On the predictive role of covariate shift in effect generalization</span>   
  <span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;">, <span style="font-size:14px;">Naoki Egami, and Dominik Rothenhäusler, 2024. [Arxiv](https://arxiv.org/abs/2412.08869) | [GitHub](https://github.com/ying531/predictive-shift)</span>  
-  <!-- <span style="color:grey;font-size:14px;">Revision requested at Proceedings of the National Academy of Sciences (PNAS).</span>    -->
+  <span style="color:grey;font-size:14px;">Proceedings of the National Academy of Sciences (PNAS), accepted, 2025+.</span>   
 
 <p style="margin-bottom: -3px;"> </p>
  
