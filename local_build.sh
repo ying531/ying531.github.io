@@ -47,4 +47,3 @@ ruby -S bundle _2.5.22_ install --path vendor/bundle
 
 echo "\n==> Serving site (Ctrl+C to stop)"
 ruby -S bundle _2.5.22_ exec jekyll serve
-

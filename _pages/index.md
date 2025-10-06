@@ -32,10 +32,11 @@ I currently help organize the [Online Causal Inference Seminar](https://sites.go
   
 I work on statistical problems related to two main themes:
 
-- **Uncertainty quantification**    
-I develop methods to quantify and control the uncertainty of AI models, aiming for their principled use in high-stakes domains like [drug discovery](https://arxiv.org/abs/2210.01408), [medical AI](https://arxiv.org/abs/2405.10301), and [automated scientific discovery](https://arxiv.org/pdf/2502.09858). 
+- **Uncertainty quantification**   
+I study distribution-free inference theory and methods for quantifying and controlling the uncertainty of black-box AI models. My recent interest is error control in complex tasks across multiple, decision-coupled test samples, including defining relevant error metrics, optimality, and methods to attain them. Technically, this often leads to new <span style="font-size:15px;font-weight: 500;">conformal prediction</span> techniques with capabilities in <span style="font-size:15px;font-weight: 500;">selective inference</span> and <span style="font-size:15px;font-weight: 500;">causal inference</span>. I'm also interested in, and often motivated by, applications in predictive screening in [drug discovery](https://arxiv.org/abs/2210.01408), generative [medical AI](https://arxiv.org/abs/2405.10301), and automated scientific discovery with [AI agents](https://arxiv.org/pdf/2502.09858). 
+<!-- I develop methods to quantify and control the uncertainty of AI models, aiming for their principled use in high-stakes domains like [drug discovery](https://arxiv.org/abs/2210.01408), [medical AI](https://arxiv.org/abs/2405.10301), and [automated scientific discovery](https://arxiv.org/pdf/2502.09858). 
 One focus is [conformal selection](https://arxiv.org/abs/2210.01408), which finds unlabeled instances with "good" labels---such as active molecules and trustworthy LLM outputs---that can be acted upon with confidence. 
-Recently, I have also been exploring statistical inference in automated scientific discovery with [AI agents](https://arxiv.org/pdf/2502.09858). 
+Recently, I have also been exploring statistical inference in automated scientific discovery with [AI agents](https://arxiv.org/pdf/2502.09858).  -->
 
  <p style="margin-top: -5px;"></p> 
 
@@ -57,6 +58,9 @@ These questions lead me to the fields of conformal prediction, causal inference,
 
 
 ## News
+
+- **Sep 2025**: Our Pessimistic Policy Learning [paper](https://arxiv.org/abs/2212.09900) is selected by Annals of Statistics to present at the journal-to-conference track at NeurIPS 2025!
+<p style="margin-top: 0px; margin-bottom: -4px;"></p> 
 
 - **Sep 2025**: Our [paper](https://arxiv.org/abs/2412.08869) on the *predictive* role of covariate shift in generalizability is accepted to <span style="font-size:15px;font-weight: 480;">PNAS</span>! Analyzing two large-scale multi-site replication projects, it suggests a *predictive*, instead of explanatory, role of covariate shift: it informs the strength of unknown conditional shift, even though it does not explain away all the distribution shift between sites. See my [blog post](research/predictive-shift) here!
 <p style="margin-top: 0px; margin-bottom: -4px;"></p> 
