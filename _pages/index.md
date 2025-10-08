@@ -43,8 +43,8 @@ Recently, I have also been exploring statistical inference in automated scientif
 
  <p style="margin-top: -5px;"></p> 
 
-- **Generalizability and robustness**   
-I am interested in the generalization and robustness of statistical findings across datasets, populations, and contexts. My recent works study the empirical patterns of [distribution shifts](https://arxiv.org/abs/2412.08869) in large-scale replication studies. I also develop methods that address various types of distribution shifts in [generalizing treatment effects](https://arxiv.org/abs/2104.04565), learning [causal decision rules](https://arxiv.org/abs/2212.09900), and [combining datasets](https://arxiv.org/abs/2211.10032).  
+- **Generalizability, causality and robustness**   
+I am interested in the generalization and robustness of statistical findings and causal effects across datasets, populations, and contexts. My recent works study the empirical patterns of [distribution shifts](https://arxiv.org/abs/2412.08869) in large-scale replication studies. I also develop methods that address various types of distribution shifts for [generalizing causal effects](https://arxiv.org/abs/2104.04565), learning [robust policy rules](https://arxiv.org/abs/2212.09900), causal [sensitivity analysis](https://arxiv.org/abs/2203.04373), and [data integration](https://arxiv.org/abs/2211.10032).  
 
 <!-- These questions lead me to the fields of conformal prediction, causal inference, and multiple testing.  -->
   
