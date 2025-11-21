@@ -9,7 +9,7 @@ layout: archive
 
 ## As Instructor at UPenn
 
-- STAT 4710/5710 - Modern Data Mining
+- STAT 4710/5710 - Modern Data Mining (2025 Fall)
 
 ## As Instructor at Stanford
 

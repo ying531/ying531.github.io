@@ -28,21 +28,22 @@ layout: archive
 
 <p style="margin-bottom: -10px;"> </p>
 
+
 #### 2025
 
 <p style="margin-bottom: 20px;"> </p>
 
-
+<span style="font-size:15px;font-weight: 600;">Cross-balancing for data-informed design and  efficient analysis of observational studies</span>   
+ <span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;"> and José R. Zubizarreta, 2025. [Arxiv](https://arxiv.org/abs/2511.15896)</span>  
 
 
 <span style="font-size:15px;font-weight: 600;">ACS: An interactive framework for conformal selection</span>   
- <span style="font-size:14px;">Yu Gui\*, </span><span style="font-size:14px;font-weight:500;">Ying Jin\*</span><span style="font-size:14px;">, Yash Nair\*, and Zhimei Ren\*, 2025. [Arxiv](https://arxiv.org/abs/2507.15825)  
+ <span style="font-size:14px;">Yu Gui\*, </span><span style="font-size:14px;font-weight:500;">Ying Jin\*</span><span style="font-size:14px;">, Yash Nair\*, and Zhimei Ren\*, 2025. [Arxiv](https://arxiv.org/abs/2507.15825</span>)  
 
 <span style="font-size:15px;font-weight: 600;">Diversifying conformal selections</span>   
- <span style="font-size:14px;">Yash Nair, </span><span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;">, James Yang, and Emmanuel Candès, 2025. [Arxiv](https://arxiv.org/abs/2506.16229) | [GitHub](https://github.com/Yashnair123/diverseSelect)   
+ <span style="font-size:14px;">Yash Nair, </span><span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;">, James Yang, and Emmanuel Candès, 2025. [Arxiv](https://arxiv.org/abs/2506.16229) | [GitHub](https://github.com/Yashnair123/diverseSelect)</span>   
  
-<!-- <span style="font-size:15px;font-weight: 600;">Guaranteed molecule generation via conformal nested testing</span>   
- <span style="font-size:14px;">Siddhartha Laghuvarapu, </span><span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;">, and Jimeng Sun, 2025.     -->
+
 
 <span style="font-size:15px;font-weight: 600;">Controllable sequence editing for biological and clinical trajectories</span>   
  <span style="font-size:14px;">Michelle Li, Kevin Li, Yasha Ektefaie, </span><span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;">, Yepeng Huang, Shvat Messica, Tianxi Cai, Marinka Zitnik, 2025. [Arxiv](https://arxiv.org/abs/2502.03569) | [GitHub](https://github.com/mims-harvard/CLEF)</span>      
@@ -61,7 +62,7 @@ layout: archive
 
 <span style="font-size:15px;font-weight: 600;">Beyond reweighting: On the predictive role of covariate shift in effect generalization</span>   
  <span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;">, <span style="font-size:14px;">Naoki Egami, and Dominik Rothenhäusler, 2024. [Arxiv](https://arxiv.org/abs/2412.08869) | [GitHub](https://github.com/ying531/predictive-shift)</span>  
-  <span style="color:grey;font-size:14px;">Proceedings of the National Academy of Sciences (PNAS), accepted, 2025+.</span>   
+  <span style="color:grey;font-size:14px;">Proceedings of the National Academy of Sciences (PNAS), 2025.</span>   
 
 <p style="margin-bottom: -3px;"> </p>
  
@@ -79,7 +80,7 @@ layout: archive
 
 <span style="font-size:15px;font-weight: 600;">Confidence on the focal: Conformal prediction with selection-conditional coverage</span>   
  <span style="font-size:14px;font-weight:500;">Ying Jin\*</span><span style="font-size:14px;"> and Zhimei Ren\*, 2024.</span>  
- <span style="color:grey;font-size:14px;">Journal of the Royal Statistical Society: Series B (JRSS-B), 2025+.</span> <span style="font-size:14px;">[Arxiv](https://arxiv.org/abs/2403.03868) | [GitHub](https://github.com/ying531/JOMI-paper)</span> 
+ <span style="color:grey;font-size:14px;">Journal of the Royal Statistical Society: Series B (JRSS-B), 2025.</span> <span style="font-size:14px;">[Arxiv](https://arxiv.org/abs/2403.03868) | [GitHub](https://github.com/ying531/JOMI-paper)</span> 
  
 
 <p style="margin-bottom: 20px;"> </p>
@@ -99,7 +100,7 @@ layout: archive
 
 <span style="font-size:15px;font-weight: 600;">Model-free selective inference under covariate shift via weighted conformal p-values</span>    
   <span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;"> and Emmanuel Candès, 2023.</span> <span style="font-size:14px;">[Arxiv](https://arxiv.org/abs/2307.09291) | [software and reproduction code](https://github.com/ying531/conformal-selection)</span>  
-  <span style="color:grey;font-size:14px;">Biometrika, accepted, 2025+.</span>  
+  <span style="color:grey;font-size:14px;">Biometrika, 2025+.</span>  
 
 <p style="margin-bottom: -3px;"> </p>
 
@@ -120,7 +121,7 @@ layout: archive
 
 <span style="font-size:15px;font-weight: 600;">Policy learning "without" overlap: pessimism and generalized empirical Bernstein's inequality</span>          
   <span style="font-size:14px;font-weight:500;">Ying Jin\*</span><span style="font-size:14px;">, Zhimei Ren\*, Zhuoran Yang, and Zhaoran Wang, 2022.</span>    
-  <span style="color:grey;font-size:14px;">Annals of Statistics, 2025+.</span>  <span style="font-size:14px;">[Arxiv](https://arxiv.org/abs/2212.09900) | [an article on this work](https://gerben-oostra.medium.com/policy-learning-without-overlap-is-it-possible-c304dec76240)</span>
+  <span style="color:grey;font-size:14px;">Annals of Statistics, 2025.</span>  <span style="font-size:14px;">[Arxiv](https://arxiv.org/abs/2212.09900) | [an article on this work](https://gerben-oostra.medium.com/policy-learning-without-overlap-is-it-possible-c304dec76240)</span>
 
 <p style="margin-bottom: -3px;"> </p>
 
@@ -194,8 +195,25 @@ layout: archive
   <span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px">, Zhuoran Yang, and Zhaoran Wang.</span>  
   <span style="color:grey;font-size:14px;">Mathematics of Operations Research, 2024+</span>. <span style="font-size:14px">Short version in ICML 2021. [MathOR](https://pubsonline.informs.org/doi/full/10.1287/moor.2022.0216) | [Arxiv](https://arxiv.org/pdf/2012.15085.pdf) | [RL seminar talk](https://www.youtube.com/watch?v=vo6HZUDXE1w) | [Slides](/assets/files/slides_pessimism.pdf)</span>   
 
+<!-- 
+<p style="margin-bottom: 20px;"> </p>
+----
+<p style="margin-bottom: -10px;"> </p>
 
+#### Manuscript in prepration 
 
+<p style="margin-bottom: 20px;"> </p>
+
+<span style="font-size:15px;font-weight: 600;">Multi-distribution conformal prediction</span>   
+ <span style="font-size:14px;">Yuqi Yang and </span><span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;">, 2025+.    
+
+<span style="font-size:15px;font-weight: 600;">Online selective conformal prediction with asymmetric rules: a permutation test approach</span>   
+<span style="font-size:14px;">Mingyi Zheng and </span><span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;">, 2025+.    
+
+<span style="font-size:15px;font-weight: 600;">ConfHit: Conformal generative design via nested testing</span>   
+ <span style="font-size:14px;">Siddhartha Laghuvarapu, </span><span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;">, and Jimeng Sun, 2025+.    
+
+  -->
 
  
 <!-- 
