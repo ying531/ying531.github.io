@@ -28,7 +28,38 @@ layout: archive
 
 <p style="margin-bottom: -10px;"> </p>
 
+#### 2026
 
+<p style="margin-bottom: 20px;"> </p>
+
+
+<!-- <span style="font-size:15px;font-weight: 600;">From Predictions to Error-Controlled Decisions:
+Uncertainty Quantification for Actionable Foundation Models in Medicine</span>   
+ <span style="font-size:14px;font-weight:500;">Ying Jin\*</span><span style="font-size:14px;">, <span style="font-size:14px;">Intae Moon\*, and Marinka Zitnik</span>, 2026.</span> <span style="font-size:14px;"></span>
+
+<span style="font-size:15px;font-weight: 600;">TxConformal: Controlling False Discoveries in
+AI-Driven Therapeutic Discovery</span>   
+ <span style="font-size:14px;font-weight:500;">Ying Jin\*</span><span style="font-size:14px;">, <span style="font-size:14px;">Kexin Huang\*, Nathaniel Diamant, Kerry R. Buchholz,
+Steven T. Rutherford, Nicholas Skelton, Tommaso Biancalani, Gabriele Scalia,   
+Jure Leskovec, and Emmanuel J. Candès</span>, 2026.</span> <span style="font-size:14px;"></span>
+
+<span style="font-size:15px;font-weight: 600;">Conformal selective prediction with general risk control</span>   
+ <span style="font-size:14px;">Tian Bai and </span><span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;">, 2026.</span> <span style="font-size:14px;"></span> -->
+
+<span style="font-size:15px;font-weight: 600;">Multi-distribution robust conformal prediction</span>   
+ <span style="font-size:14px;">Yuqi Yang and </span><span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;">, 2026. [Arxiv](https://arxiv.org/abs/2601.02998) | [GitHub](https://github.com/AragornBFRer/MDCP)</span>   
+
+<!-- 
+<span style="font-size:15px;font-weight: 600;">Online selective conformal prediction with asymmetric rules: A permutation test approach</span>   
+ <span style="font-size:14px;">Mingyi Zheng and </span><span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;">, 2026.</span> <span style="font-size:14px;"></span>
+
+<span style="font-size:15px;font-weight: 600;">ConfHit: Conformal generative design via nested testing</span>   
+<span style="font-size:14px;">Siddhartha Laghuvarapu, </span> <span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;"> and Jimeng Sun, 2026. [Arxiv]()</span>  -->
+
+
+<p style="margin-bottom: 20px;"> </p>
+----
+<p style="margin-bottom: -10px;"> </p>
 #### 2025
 
 <p style="margin-bottom: 20px;"> </p>
@@ -39,6 +70,7 @@ layout: archive
 
 <span style="font-size:15px;font-weight: 600;">ACS: An interactive framework for conformal selection</span>   
  <span style="font-size:14px;">Yu Gui\*, </span><span style="font-size:14px;font-weight:500;">Ying Jin\*</span><span style="font-size:14px;">, Yash Nair\*, and Zhimei Ren\*, 2025. [Arxiv](https://arxiv.org/abs/2507.15825</span>)  
+  <!-- <span style="color:grey;font-size:14px;">Major revision requested at Journal of the American Statistical Association (JASA).</span>   -->
 
 <span style="font-size:15px;font-weight: 600;">Diversifying conformal selections</span>   
  <span style="font-size:14px;">Yash Nair, </span><span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;">, James Yang, and Emmanuel Candès, 2025. [Arxiv](https://arxiv.org/abs/2506.16229) | [GitHub](https://github.com/Yashnair123/diverseSelect)</span>   

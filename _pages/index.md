@@ -28,11 +28,11 @@ I currently help organize the [Online Causal Inference Seminar](https://sites.go
 
 ## Research interests
 
-In many modern settings, AI systems act as imperfect proxies: they select cases to prioritize, label data at scale, or generate hypotheses that humans act on. I study statistical methods for inference with such AI‑mediated data and decisions, around three connected themes:
+Modern AI systems act as imperfect proxies: they select cases to prioritize, label data at scale, or generate hypotheses that humans act on. I study the statistical foundations for reliable AI use in high-stakes domains, around three connected themes:
 <p style="margin-top: -8px;"></p> 
 
 - **Uncertainty quantification and quality control for AI models**  
-  Designing uncertainty quantification and error-control procedures that decide when AI predictions should (not) be trusted under explicit budgets of error or harm. Applications include predictive screening in [drug discovery](https://arxiv.org/abs/2210.01408), [medical AI](https://arxiv.org/abs/2405.10301), and generative design. 
+  Designing uncertainty quantification procedures that decide when AI predictions should (not) be trusted under explicit budgets of error or harm. Applications include predictive screening in [drug discovery](https://arxiv.org/abs/2210.01408), [medical AI](https://arxiv.org/abs/2405.10301), and generative design. 
     <p style="margin-top: -8px;"></p> 
 
 <!-- - **Inference with AI-generated  data/hypotheses**  
@@ -41,13 +41,13 @@ Developing inference methods when data have already been selected, labeled, or g
 
 - **Generalizability, causality and robustness**    
 Studying  the generalization and robustness of statistical findings across datasets, populations, and contexts. 
-Topics include empirical patterns of [distribution shifts](https://arxiv.org/abs/2412.08869) in large-scale replication studies, and methods to address distribution shifts in [transferring causal effects](https://arxiv.org/abs/2104.04565), learning [policy rules](https://arxiv.org/abs/2212.09900), robust [balancing weights](https://arxiv.org/abs/2511.15896) and   [sensitivity analysis](https://arxiv.org/abs/2203.04373) in observational studies, and [data integration](https://arxiv.org/abs/2211.10032). 
+Topics include [distribution shifts](https://arxiv.org/abs/2412.08869) in large-scale replication studies, and methods in [transferring causal effects](https://arxiv.org/abs/2104.04565), [policy learning](https://arxiv.org/abs/2212.09900), robust [balancing weights](https://arxiv.org/abs/2511.15896), [sensitivity analysis](https://arxiv.org/abs/2203.04373), and [data integration](https://arxiv.org/abs/2211.10032). 
     
 <p style="margin-top: -8px;"></p> 
 - **Agentic scientific discovery**  
 Developing the statistical foundations for AI systems that generate and prioritize scientific hypotheses from multi-source, large-scale data, aiming to build agents that are both creative and statistically credible. See [POPPER](https://arxiv.org/pdf/2502.09858).
 
-Methodologically, my work combines tools from conformal prediction, selective inference, and causal inference. Much of my current work is motivated by collaborations in medicine and the life sciences (e.g., medical foundation models, pathology, and drug discovery), but the methods are intended to provide a general statistical foundation for reliable AI use in high-stakes settings.
+Methodologically, my work covers conformal prediction, selective inference, and causal inference. Much of my current work is motivated by collaborations in medicine and the life sciences, but the methods aim to provide a general statistical foundation.
 
 
   
