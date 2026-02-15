@@ -2,6 +2,15 @@
 layout: default
 ---
 
+<style>
+  /* 针对 archive 容器里的段落和列表调整粗细 */
+  .archive p, .archive li, .archive span {
+      font-weight: 375; /* 300 是细体，400 是正常，500 是中等粗 */
+      /* 如果觉得颜色太深，也可以顺便改颜色 */
+      /* color: #333; */
+  }
+</style>
+
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
   {% include page__hero.html %}
 {% elsif page.header.video.id and page.header.video.provider %}
