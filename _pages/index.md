@@ -98,7 +98,7 @@ These questions lead me to the fields of conformal prediction, causal inference,
 <!-- - **Jan 2026**: In generative design of new compounds, how to tell whether a hit (property-satisfying instance) appears? Excited to share our ICLR 2026 paper [ConfHit](), a nested testing procedure to locate hits in generated samples with conformal guarantees.
 <p style="margin-top: 0px; margin-bottom: -4px;"></p>  -->
 
-- **Feb 2025**: New papers on conformal prediction  uniform valid  across [multi-distributions](https://arxiv.org/abs/2601.02998) and online selective conformal prediction for arbitrary selection rules via [permutation test](https://arxiv.org/abs/2602.10018)! New [column](https://hdsr.mitpress.mit.edu/pub/xxn09ssc/release/1) for "Catalytic Causal Conversations" at Harvard Data Science Review. 
+- **Feb 2025**: New papers on conformal prediction with uniform validity  across [multi-distributions](https://arxiv.org/abs/2601.02998) and online selective conformal prediction for arbitrary selection rules via [permutation test](https://arxiv.org/abs/2602.10018)! New [column](https://hdsr.mitpress.mit.edu/pub/xxn09ssc/release/1) for "Catalytic Causal Conversations" at Harvard Data Science Review. 
 <p style="margin-top: 0px; margin-bottom: -4px;"></p> 
 
 - **Nov 2025**: We develop [Cross-Balancing](https://arxiv.org/abs/2511.15896) for constructing  weights in observational studies with data-driven balancing features, via fitted models or selected variables, combined with expert knowledge. It offers efficient estimation, valid inference, and reduced bias!
