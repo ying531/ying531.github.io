@@ -31,7 +31,7 @@ I obtained my PhD in Statistics from Stanford University in 2024, advised by Pro
 Modern AI systems act as imperfect proxies: they select cases to prioritize, label data at scale, or generate hypotheses that humans act on. I study the statistical foundations for reliable AI use in high-stakes domains, around three connected themes:
 <p style="margin-top: -8px;"></p> 
 
-- **Uncertainty quantification and quality control for AI models**: Designing procedures that decide when AI predictions should (not) be trusted under explicit budgets of error, with recent focus on conformal inference with multiple unlabeled data and data-driven decisions. Applications include [drug discovery](https://arxiv.org/abs/2210.01408), safe deployment of [medical AI](https://arxiv.org/abs/2405.10301), and generative design. 
+- **Uncertainty quantification and quality control for AI models**: Designing procedures that decide when AI predictions should (not) be trusted under explicit budgets of error, with recent focus on conformal inference with multiple unlabeled data and data-driven decisions. Applications include [drug discovery](https://arxiv.org/abs/2210.01408), safe deployment of [medical AI](https://www.medrxiv.org/content/10.64898/2026.02.23.26346927v1.full.pdf), [LLMs](https://arxiv.org/abs/2405.10301), and generative design. 
     <p style="margin-top: -8px;"></p> 
 
 <!-- - **Inference with AI-generated  data/hypotheses**  
@@ -98,7 +98,9 @@ These questions lead me to the fields of conformal prediction, causal inference,
 <!-- - **Jan 2026**: In generative design of new compounds, how to tell whether a hit (property-satisfying instance) appears? Excited to share our ICLR 2026 paper [ConfHit](), a nested testing procedure to locate hits in generated samples with conformal guarantees.
 <p style="margin-top: 0px; margin-bottom: -4px;"></p>  -->
 
-- **Feb 2025**: New papers on conformal prediction with uniform validity  across [multi-distributions](https://arxiv.org/abs/2601.02998) and online selective conformal prediction for arbitrary selection rules via [permutation test](https://arxiv.org/abs/2602.10018)! New [column](https://hdsr.mitpress.mit.edu/pub/xxn09ssc/release/1) for "Catalytic Causal Conversations" at Harvard Data Science Review. 
+- **Feb 2026**: Average accuracy of medical AI does not answer the operational question: <span style="font-size:15px;font-weight: 500;">Is this prediction reliable enough to act on for this patient? What if not?</span> It's not just uncertainty quantification, but to turn UQ into actionable decisions. Sharing [StratCP](https://www.medrxiv.org/content/10.64898/2026.02.23.26346927v1.full.pdf), a mechanism that decides when to act/defer and what to do next, with rigorous guarantees! It selects (i) accurate predictions, (ii) long survivors, (iii) rapid H&E-based AI diagnoses that safely bypass costly genomic tests, and (iv) builds coherent prediction sets for deferred cases.
+
+- **Feb 2026**: New papers on conformal prediction with uniform validity  across [multi-distributions](https://arxiv.org/abs/2601.02998) and online selective conformal prediction for arbitrary selection rules via [permutation test](https://arxiv.org/abs/2602.10018)! New [column](https://hdsr.mitpress.mit.edu/pub/xxn09ssc/release/1) for "Catalytic Causal Conversations" at Harvard Data Science Review. 
 <p style="margin-top: 0px; margin-bottom: -4px;"></p> 
 
 - **Nov 2025**: We develop [Cross-Balancing](https://arxiv.org/abs/2511.15896) for constructing  weights in observational studies with data-driven balancing features, via fitted models or selected variables, combined with expert knowledge. It offers efficient estimation, valid inference, and reduced bias!

@@ -50,6 +50,8 @@ Jure Leskovec, and Emmanuel J. Candès</span>, 2026.</span> <span style="font-si
 <span style="color:grey;font-size:14px;">International Conference on Learning Representations (ICLR), 2026.</span>
 {: style="line-height: 1.4; margin-bottom: 10px;" } -->
 
+<span style="font-size:14px;font-weight: 600;">Act or Defer: Error-Controlled Decision Policies for Medical Foundation Models</span>   
+ <span style="font-size:14px;font-weight:500;">Ying Jin\*</span><span style="font-size:14px;">, Intae Moon\*, and Marinka Zitnik, 2026.</span> <span style="font-size:14px;">[medRxiv](https://www.medrxiv.org/content/10.64898/2026.02.23.26346927v1.full.pdf) | [Github](https://github.com/mims-harvard/StratCP/) | [Project website](https://zitniklab.hms.harvard.edu/projects/StratCP/) </span>
 
 <span style="font-size:14px;font-weight: 600;">Online selective conformal prediction with asymmetric rules: A permutation test approach</span>   
  <span style="font-size:14px;">Mingyi Zheng and </span><span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;">, 2026.</span> <span style="font-size:14px;">[Arxiv](https://arxiv.org/abs/2602.10018) | [Github](https://github.com/mingyi811/PEMI) </span>
@@ -85,7 +87,7 @@ Jure Leskovec, and Emmanuel J. Candès</span>, 2026.</span> <span style="font-si
  {: style="line-height: 1.4; margin-bottom: 10px;" }
 
 
-<span style="font-size:14px;font-weight: 600;">Controllable sequence editing for biological and clinical trajectories</span>   
+<span style="font-size:14px;font-weight: 600;">Controllable sequence editing for counterfactual generation</span>   
  <span style="font-size:14px;">Michelle Li, Kevin Li, Yasha Ektefaie, </span><span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;">, Yepeng Huang, Shvat Messica, Tianxi Cai, Marinka Zitnik, 2025. </span>    
  <span style="color:grey;font-size:14px;">International Conference on Learning Representations (ICLR), 2026. [Arxiv](https://arxiv.org/abs/2502.03569) | [GitHub](https://github.com/mims-harvard/CLEF)</span>      
  {: style="line-height: 1.4; margin-bottom: 10px;" }
@@ -170,21 +172,21 @@ Jure Leskovec, and Emmanuel J. Candès</span>, 2026.</span> <span style="font-si
 
 <span style="font-size:14px;font-weight: 600;">Policy learning "without" overlap: pessimism and generalized empirical Bernstein's inequality</span>          
   <span style="font-size:14px;font-weight:500;">Ying Jin\*</span><span style="font-size:14px;">, Zhimei Ren\*, Zhuoran Yang, and Zhaoran Wang, 2022</span>    
-  <span style="color:grey;font-size:14px;">Annals of Statistics, 2025.</span>  <span style="font-size:14px;">[Arxiv](https://arxiv.org/abs/2212.09900) | [an article on this work](https://gerben-oostra.medium.com/policy-learning-without-overlap-is-it-possible-c304dec76240)</span>
+  <span style="color:grey;font-size:14px;">Annals of Statistics, 2025.</span>  <span style="font-size:14px;">[Arxiv](https://arxiv.org/abs/2212.09900) | [an article on this work](https://gerben-oostra.medium.com/policy-learning-without-overlap-is-it-possible-c304dec76240) | [AoS](https://projecteuclid.org/journals/annals-of-statistics/volume-53/issue-4/Policy-learning-without-overlap--Pessimism-and-generalized-empirical-Bernsteins/10.1214/25-AOS2511.short)</span>
 {: style="line-height: 1.4; margin-bottom: 10px;" }
 
 <p style="margin-bottom: -5px;"> </p>
 
 <span style="font-size:14px;font-weight: 600;">Modular regression: improving linear models by incorporating auxiliary data</span>          
   <span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px"> and Dominik Rothenhäusler</span>    
-  <span style="color:grey;font-size:14px;">Journal of Machine Learning Research (JMLR), 2023.</span>  <span style="font-size:14px">[Arxiv](https://arxiv.org/abs/2211.10032)</span>
+  <span style="color:grey;font-size:14px;">Journal of Machine Learning Research (JMLR), 2023.</span>  <span style="font-size:14px">[Arxiv](https://arxiv.org/abs/2211.10032) | [JMLR](https://www.jmlr.org/papers/volume24/22-1318/22-1318.pdf)</span>
 {: style="line-height: 1.4; margin-bottom: 10px;" }
 
 <p style="margin-bottom: -5px;"> </p>
 
 <span style="font-size:14px;font-weight: 600;">Selection by prediction with conformal p-values</span>         
   <span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px"> and Emmanuel Candès</span>      
-  <span style="color:grey;font-size:14px;">Journal of Machine Learning Research (JMLR), 2023.</span> <span style="font-size:14px">[Arxiv](https://arxiv.org/abs/2210.01408) | [Reproduction code](https://github.com/ying531/selcf_paper)</span>
+  <span style="color:grey;font-size:14px;">Journal of Machine Learning Research (JMLR), 2023.</span> <span style="font-size:14px">[Arxiv](https://arxiv.org/abs/2210.01408) | [Reproduction code](https://github.com/ying531/selcf_paper) | [JMLR](https://www.jmlr.org/papers/v24/22-1176.html) </span>
 {: style="line-height: 1.4; margin-bottom: 10px;" }
 
 <p style="margin-bottom: -5px;"> </p>
@@ -197,8 +199,8 @@ Jure Leskovec, and Emmanuel J. Candès</span>, 2026.</span> <span style="font-si
 <p style="margin-bottom: -5px;"> </p>
 
 <span style="font-size:14px;font-weight: 600;">Sensitivity analysis under the f-sensitivity models: a distributional robustness perspective</span>        
-  <span style="font-size:14px;font-weight:500;">Ying Jin\*</span><span style="font-size:14px;">, Zhimei Ren\*, and Zhengyuan Zhou  
-  <span style="color:grey;font-size:14px;">Operations Research, 2025.</span> [Arxiv](https://arxiv.org/abs/2203.04373)</span>  
+  <span style="font-size:14px;font-weight:500;">Ying Jin\*</span><span style="font-size:14px;">, Zhimei Ren\*, and Zhengyuan Zhou</span>  
+  <span style="color:grey;font-size:14px;">Operations Research, 2025.</span> [Arxiv](https://arxiv.org/abs/2203.04373) | [Journal](http://pubsonline.informs.org/doi/abs/10.1287/opre.2023.0001)  
   <span style="font-size:14px;">*Student Paper Award at ICSA Applied Statistics Symposium, 2022*.</span>
 {: style="line-height: 1.4; margin-bottom: 10px;" }
 
@@ -236,7 +238,7 @@ Jure Leskovec, and Emmanuel J. Candès</span>, 2026.</span> <span style="font-si
 
 <span style="font-size:14px;font-weight: 600;">Tailored inference for finite populations: conditional validity and transfer across distributions</span>          
   <span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px"> and Dominik Rothenhäusler.</span>     
-  <span style="color:grey;font-size:14px;">Biometrika, 2023.</span>  <span style="font-size:14px">[Arxiv](https://arxiv.org/pdf/2104.04565.pdf) | [Software](https://github.com/ying531/transinf) </span>
+  <span style="color:grey;font-size:14px;">Biometrika, 2023.</span>  <span style="font-size:14px">[Arxiv](https://arxiv.org/pdf/2104.04565.pdf) | [Software](https://github.com/ying531/transinf) | [Journal](https://academic.oup.com/biomet/article/111/1/215/7099603) </span>
 {: style="line-height: 1.4; margin-bottom: 10px;" }
 
 <p style="margin-bottom: 20px;"> </p>

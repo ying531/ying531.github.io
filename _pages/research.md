@@ -35,6 +35,9 @@ When AI models are deployed in high-stakes scenarios, the challenges are not jus
 Representative papers: 
 <p style="margin-bottom: -10px;"> </p>
 
+  - <span style="font-size:14px;font-weight: 500;">Act or Defer: Error-Controlled Decision Policies for Medical Foundation Models</span>      
+    <span style="font-size:14px;font-weight:500;">Ying Jin\*</span><span style="font-size:14px;">, Intae Moon\*, and Marinka Zitnik, 2026</span>   
+    <p style="margin-bottom: -10px;"> </p>
   - <span style="font-size:14px;font-weight: 500;">Optimized Conformal Selection: Powerful selective inference after conformity score optimization</span>      
     <span style="font-size:14px;">Tian Bai and </span><span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;">, 2024</span>   
     <p style="margin-bottom: -10px;"> </p>
