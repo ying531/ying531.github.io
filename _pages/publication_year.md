@@ -45,10 +45,10 @@ Jure Leskovec, and Emmanuel J. Candès</span>, 2026.</span> <span style="font-si
  <span style="font-size:14px;">Tian Bai and </span><span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;">, 2026.</span> <span style="font-size:14px;"></span> 
  -->
 
-<!-- <span style="font-size:14px;font-weight: 600;">ConfHit: Conformal generative design via nested testing</span>   
-<span style="font-size:14px">Siddhartha Laghuvarapu, </span> <span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;"> and Jimeng Sun, 2026. [Arxiv]()</span>    
+<span style="font-size:14px;font-weight: 600;">ConfHit: Conformal generative design with oracle-free guarantees</span>   
+<span style="font-size:14px">Siddhartha Laghuvarapu, </span> <span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;"> and Jimeng Sun, 2026. [OpenReview](https://openreview.net/pdf?id=IruPup3KnX)</span>    
 <span style="color:grey;font-size:14px;">International Conference on Learning Representations (ICLR), 2026.</span>
-{: style="line-height: 1.4; margin-bottom: 10px;" } -->
+{: style="line-height: 1.4; margin-bottom: 10px;" }
 
 <span style="font-size:14px;font-weight: 600;">Act or Defer: Error-Controlled Decision Policies for Medical Foundation Models</span>   
  <span style="font-size:14px;font-weight:500;">Ying Jin\*</span><span style="font-size:14px;">, Intae Moon\*, and Marinka Zitnik, 2026.</span> <span style="font-size:14px;">[medRxiv](https://www.medrxiv.org/content/10.64898/2026.02.23.26346927v1.full.pdf) | [Github](https://github.com/mims-harvard/StratCP/) | [Project website](https://zitniklab.hms.harvard.edu/projects/StratCP/) </span>
@@ -143,7 +143,7 @@ Jure Leskovec, and Emmanuel J. Candès</span>, 2026.</span> <span style="font-si
 
 <span style="font-size:14px;font-weight: 600;">Diagnosing the role of observable distribution shift in scientific replications</span>          
   <span style="font-size:14px;font-weight:500;">Ying Jin\*</span><span style="font-size:14px;">, Kevin Guo\*, and Dominik Rothenhäusler.</span> <span style="font-size:14px;">[Arxiv](https://arxiv.org/abs/2309.01056) | [awesome-replicability-data](https://github.com/ying531/awesome-replicability-data) | [R package](https://github.com/ying531/repDiagnosis) | [shiny app](https://mbzlnj-ying-jin.shinyapps.io/shiny/)</span>     
-  <span style="color:grey;font-size:14px;">Journal of the Royal Statistical Society: Series C (JRSS-C): Applied Statistics, 2026.</span>
+  <!-- <span style="color:grey;font-size:14px;">Journal of the Royal Statistical Society: Series C (JRSS-C): Applied Statistics, 2026.</span> -->
 {: style="line-height: 1.4; margin-bottom: 10px;" }
 
 <p style="margin-bottom: -5px;"> </p>
