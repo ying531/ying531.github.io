@@ -95,7 +95,7 @@ These questions lead me to the fields of conformal prediction, causal inference,
 
 ## News
 
-- **Mar 2026**: In generative design of new compounds, how to tell whether a hit (property-satisfying instance) appears? Excited to share our ICLR 2026 paper [ConfHit](https://openreview.net/pdf?id=IruPup3KnX), using nested weighted permutation tests to locate hits in generated samples with conformal guarantees!
+- **Mar 2026**: In generative design of new compounds, how to tell whether a hit (property-satisfying instance) appears? Excited to share our ICLR 2026 paper [ConfHit](https://openreview.net/forum?id=IruPup3KnX&noteId=pHZNqVUJLk), using nested weighted permutation tests to locate hits in generated samples with conformal guarantees!
 <p style="margin-top: 0px; margin-bottom: -4px;"></p> 
 
 - **Feb 2026**: Average accuracy of medical AI does not answer the operational question: <span style="font-size:15px;font-weight: 500;">Is this prediction reliable enough to act on for this patient? What if not?</span> It's not just uncertainty quantification, but to turn UQ into actionable decisions. Sharing [StratCP](https://www.medrxiv.org/content/10.64898/2026.02.23.26346927v1.full.pdf), a mechanism that decides when to act/defer and what to do next, with rigorous guarantees! It selects (i) accurate predictions, (ii) long survivors, (iii) rapid H&E-based AI diagnoses that safely bypass costly genomic tests, and (iv) builds coherent prediction sets for deferred cases.
