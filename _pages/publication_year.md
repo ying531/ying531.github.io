@@ -46,7 +46,7 @@ Jure Leskovec, and Emmanuel J. Candès</span>, 2026.</span> <span style="font-si
  -->
 
 <span style="font-size:14px;font-weight: 600;">ConfHit: Conformal generative design with oracle-free guarantees</span>   
-<span style="font-size:14px">Siddhartha Laghuvarapu, </span> <span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;"> and Jimeng Sun, 2026. [OpenReview](https://openreview.net/forum?id=IruPup3KnX&noteId=pHZNqVUJLk)</span>    
+<span style="font-size:14px">Siddhartha Laghuvarapu, </span> <span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;"> and Jimeng Sun, 2026. [OpenReview](https://openreview.net/forum?id=IruPup3KnX)</span>    
 <span style="color:grey;font-size:14px;">International Conference on Learning Representations (ICLR), 2026.</span>
 {: style="line-height: 1.4; margin-bottom: 10px;" }
 
