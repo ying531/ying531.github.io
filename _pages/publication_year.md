@@ -46,7 +46,7 @@ Jure Leskovec, and Emmanuel J. Candès</span>, 2026.</span> <span style="font-si
  -->
 
 <span style="font-size:14px;font-weight: 600;">ConfHit: Conformal generative design with oracle-free guarantees</span>   
-<span style="font-size:14px">Siddhartha Laghuvarapu, </span> <span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;"> and Jimeng Sun, 2026. [OpenReview](https://openreview.net/forum?id=IruPup3KnX)</span>    
+<span style="font-size:14px">Siddhartha Laghuvarapu, </span> <span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;"> and Jimeng Sun, 2026. [arXiv](https://arxiv.org/abs/2603.07371) | [GitHub](https://github.com/siddharthal/CONFHIT-Conformal-Generative-Design-with-Oracle-Free-Guarantees)</span>    
 <span style="color:grey;font-size:14px;">International Conference on Learning Representations (ICLR), 2026.</span>
 {: style="line-height: 1.4; margin-bottom: 10px;" }
 
@@ -143,7 +143,7 @@ Jure Leskovec, and Emmanuel J. Candès</span>, 2026.</span> <span style="font-si
 
 <span style="font-size:14px;font-weight: 600;">Diagnosing the role of observable distribution shift in scientific replications</span>          
   <span style="font-size:14px;font-weight:500;">Ying Jin\*</span><span style="font-size:14px;">, Kevin Guo\*, and Dominik Rothenhäusler.</span> <span style="font-size:14px;">[Arxiv](https://arxiv.org/abs/2309.01056) | [awesome-replicability-data](https://github.com/ying531/awesome-replicability-data) | [R package](https://github.com/ying531/repDiagnosis) | [shiny app](https://mbzlnj-ying-jin.shinyapps.io/shiny/)</span>     
-  <!-- <span style="color:grey;font-size:14px;">Journal of the Royal Statistical Society: Series C (JRSS-C): Applied Statistics, 2026.</span> -->
+  <span style="color:grey;font-size:14px;">Journal of the Royal Statistical Society: Series C (JRSS-C): Applied Statistics, 2026.</span>
 {: style="line-height: 1.4; margin-bottom: 10px;" }
 
 <p style="margin-bottom: -5px;"> </p>
