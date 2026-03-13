@@ -49,7 +49,8 @@ layout: archive
 <span> </span>
 
 
-- **Empirical Evidence on the Predictive Role of Covariate Shift in Effect Generalization** 
+- **Beyond Reweighting: on the Predictive Role of Covariate Shift in Effect Generalization** 
+  - *Summer Institute in Computational Social Science, University of Pennsylvania, May 2026*
   - *Workshop on External Validity in the Social Sciences, Yale University, May 2026*
   - *Causality and Machine Learning Workshop, Tsinghua University, January 2026*  
   - *Joint Conference on Statistics and Data Science, China, July 2025*  
