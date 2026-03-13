@@ -7,7 +7,41 @@ layout: archive
 
 ---
 
+
+- **Act or Defer: Error-Controlled Decision Policies for Medical Foundation Models**
+  - *Bioinformatics Research Seminar Series, Western University, May 2026*
+
+<span> </span>
+
+- **Cross-Balancing for Data-Informed Design and Efficient Analysis of Observational Studies**
+  - *Pacific Causal Inference Conference (PCIC), July 2026*
+
+<span> </span>
+
+- **Conformal Selective Prediction with General Risk Control**
+  - *Department of Statistics and Probability Seminar, Michigan State University, April 2026*
+  - *Department of Statistics Seminar, University of Illinois Urbana-Champaign, April 2026*
+  - *International Chinese Statistical Association (ICSA) Applied Statistics Symposium, June 2026*
+  - *International Chinese Statistical Association (ICSA) China Conference, June 2026*
+  - *Joint Conference on Statistics and Data Science (JCSDS), July 2026*
+
+<span> </span>
+
+- **Conformal Selection: Distribution-Free Selection of Trusted AI Predictions**
+  - *Biostatistics/Bioinformatics Seminar, University of Maryland, December 2025*
+  - *Join Statistical Meetings (IMS Lawrence D. Brown PhD Student Award session), August 2025*
+  - *Statistics Seminar, Shanghai University of Finance and Economics, July 2025*
+  - *Statistics Seminar, Fudan University, July 2025*
+  - *Statistics Seminar, East China Normal University, July 2025*
+  - *Statistics Seminar, Shanghai Jiao Tong University, July 2025*
+  - *Institute for Interdisciplinary Information Sciences (IIIS) Seminar, Tsinghua University, July 2025*
+
+<span> </span>
+
 - **POPPER: Automated Hypothesis Validation with Agentic Sequential Falsifications**   
+  - *Summer Program on Large Language Models for Social Science, Columbia University, May-June 2026*
+  - *IMSI workshop on Reinforcement Learning from Offline Data and Human Feedback, April 2026*
+  - *International Conference on Econometrics and Statistics (EcoSta 2025), August 2025*
   - *Online International Seminar on Selective Inference, April 2025*   
   - *International Conference on Multiple Comparison Procedures (MCP), August 2025* 
   - *International Conference on Statistics and Data Science (ICSDS), December 2025*
@@ -15,14 +49,18 @@ layout: archive
 <span> </span>
 
 
-- **Empirical Evidence on the Predictive Role of Covariate Shift in Effect Generalization**   
+- **Empirical Evidence on the Predictive Role of Covariate Shift in Effect Generalization** 
+  - *Workshop on External Validity in the Social Sciences, Yale University, May 2026*
+  - *Causality and Machine Learning Workshop, Tsinghua University, January 2026*  
   - *Joint Conference on Statistics and Data Science, China, July 2025*  
-  - *2025 WNAR/IMS Annual Meeting, June 2025* (cancelled due to visa issue) 
+  - *2025 WNAR/IMS Annual Meeting, June 2025*  
   - *Harvard Applied Statistics Workshop, September 2024*
 
 <span> </span>
 
 - **Conformal Alignment: Knowing When to Trust Foundation Models with Guarantees**  
+  - *International Joint Conference CFE-CMStatistics, December 2025*
+  - *Join Statistical Meetings (Uncertainty Quantification for Large Language Models), August 2025*
   - *ENAR Annual Meeting, March 2025*  
   - *IMSI Long Program on Uncertainty Quantification and Artifical Intelligence, March 2025* 
   - *International Conference on Statistics and Data Science (ICSDS), December 2024*  

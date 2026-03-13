@@ -46,15 +46,15 @@ Jure Leskovec, and Emmanuel J. Candès</span>, 2026.</span> <span style="font-si
  -->
 
 <span style="font-size:14px;font-weight: 600;">ConfHit: Conformal generative design with oracle-free guarantees</span>   
-<span style="font-size:14px">Siddhartha Laghuvarapu, </span> <span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;"> and Jimeng Sun, 2026. [arXiv](https://arxiv.org/abs/2603.07371) | [GitHub](https://github.com/siddharthal/CONFHIT-Conformal-Generative-Design-with-Oracle-Free-Guarantees)</span>    
+<span style="font-size:14px">Siddhartha Laghuvarapu, </span> <span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;"> and Jimeng Sun, 2026. [Arxiv](https://arxiv.org/abs/2603.07371) | [GitHub](https://github.com/siddharthal/CONFHIT-Conformal-Generative-Design-with-Oracle-Free-Guarantees)</span>    
 <span style="color:grey;font-size:14px;">International Conference on Learning Representations (ICLR), 2026.</span>
 {: style="line-height: 1.4; margin-bottom: 10px;" }
 
 <span style="font-size:14px;font-weight: 600;">Act or Defer: Error-Controlled Decision Policies for Medical Foundation Models</span>   
- <span style="font-size:14px;font-weight:500;">Ying Jin\*</span><span style="font-size:14px;">, Intae Moon\*, and Marinka Zitnik, 2026.</span> <span style="font-size:14px;">[medRxiv](https://www.medrxiv.org/content/10.64898/2026.02.23.26346927v1.full.pdf) | [Github](https://github.com/mims-harvard/StratCP/) | [Project website](https://zitniklab.hms.harvard.edu/projects/StratCP/) </span>
+ <span style="font-size:14px;font-weight:500;">Ying Jin\*</span><span style="font-size:14px;">, Intae Moon\*, and Marinka Zitnik, 2026.</span> <span style="font-size:14px;">[medRxiv](https://www.medrxiv.org/content/10.64898/2026.02.23.26346927v1.full.pdf) | [GitHub](https://github.com/mims-harvard/StratCP/) | [Project website](https://zitniklab.hms.harvard.edu/projects/StratCP/) </span>
 
 <span style="font-size:14px;font-weight: 600;">Online selective conformal prediction with asymmetric rules: A permutation test approach</span>   
- <span style="font-size:14px;">Mingyi Zheng and </span><span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;">, 2026.</span> <span style="font-size:14px;">[Arxiv](https://arxiv.org/abs/2602.10018) | [Github](https://github.com/mingyi811/PEMI) </span>
+ <span style="font-size:14px;">Mingyi Zheng and </span><span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;">, 2026.</span> <span style="font-size:14px;">[Arxiv](https://arxiv.org/abs/2602.10018) | [GitHub](https://github.com/mingyi811/PEMI) </span>
 
 <span style="font-size:14px;font-weight: 600;">Replicability Within One Study: Harnessing Multiplicity for Observational Causal Inference</span>   
 <span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;"> </span>    

@@ -92,7 +92,7 @@ Generative AI introduces a new paradigm for scientific discovery, but it also ra
 Representative papers:
 <p style="margin-bottom: -10px;"> </p>
 
-- <span style="font-size:14px;font-weight: 500;">ConfHit: Conformal generative design via nested testing</span>      
+- <span style="font-size:14px;font-weight: 500;">ConfHit: Conformal generative design with oracle-free guarantees</span>      
   <span style="font-size:14px;">Siddhartha Laghuvarapu, </span> <span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;"> and Jimeng Sun.     <span style="color:grey;font-size:14px;">International Conference on Learning Representations (ICLR), 2026</span>  
   <p style="margin-bottom: -10px;"> </p>
 - <span style="font-size:14px;font-weight: 500;">Automated hypothesis validation with agentic sequential falsifications</span>     
