@@ -18,11 +18,11 @@ layout: archive
 This page organizes my papers by year.  See papers by research area [here](/research/).    
 <span style="font-size:13px">(* equal contribution or alphabetical order)</span>
 
+
 <p style="margin-bottom: 20px;"> </p>
 ---- 
 <p style="margin-bottom: -10px;"> </p>
   
-
  
 
 #### 2026
@@ -30,9 +30,7 @@ This page organizes my papers by year.  See papers by research area [here](/rese
 <p style="margin-bottom: 20px;"> </p>
 
 
-<!-- <span style="font-size:15px;font-weight: 600;">From Predictions to Error-Controlled Decisions:
-Uncertainty Quantification for Actionable Foundation Models in Medicine</span>   
- <span style="font-size:14px;font-weight:500;">Ying Jin\*</span><span style="font-size:14px;">, <span style="font-size:14px;">Intae Moon\*, and Marinka Zitnik</span>, 2026.</span> <span style="font-size:14px;"></span>
+<!--  
 
 <span style="font-size:15px;font-weight: 600;">TxConformal: Controlling False Discoveries in
 AI-Driven Therapeutic Discovery</span>   
@@ -40,10 +38,10 @@ AI-Driven Therapeutic Discovery</span>
 Steven T. Rutherford, Nicholas Skelton, Tommaso Biancalani, Gabriele Scalia,   
 Jure Leskovec, and Emmanuel J. Candès</span>, 2026.</span> <span style="font-size:14px;"></span>
 -->
-<!-- 
-<span style="font-size:15px;font-weight: 600;">Conformal selective prediction with general risk control</span>   
- <span style="font-size:14px;">Tian Bai and </span><span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;">, 2026.</span> <span style="font-size:14px;"></span> 
- -->
+
+<span style="font-size:14px;font-weight: 600;">Conformal selective prediction with general risk control</span>   
+ <span style="font-size:14px;">Tian Bai and </span><span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;">, 2026. [Arxiv](https://arxiv.org/abs/2603.24704) | [GitHub](https://github.com/Tian-Bai/SCoRE) </span> 
+ {: style="line-height: 1.4; margin-bottom: 10px;" }
 
 <span style="font-size:14px;font-weight: 600;">ConfHit: Conformal generative design with oracle-free guarantees</span>   
 <span style="font-size:14px">Siddhartha Laghuvarapu, </span> <span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;"> and Jimeng Sun, 2026. [Arxiv](https://arxiv.org/abs/2603.07371) | [GitHub](https://github.com/siddharthal/CONFHIT-Conformal-Generative-Design-with-Oracle-Free-Guarantees)</span>    
@@ -52,14 +50,12 @@ Jure Leskovec, and Emmanuel J. Candès</span>, 2026.</span> <span style="font-si
 
 <span style="font-size:14px;font-weight: 600;">Act or Defer: Error-Controlled Decision Policies for Medical Foundation Models</span>   
  <span style="font-size:14px;font-weight:500;">Ying Jin\*</span><span style="font-size:14px;">, Intae Moon\*, and Marinka Zitnik, 2026.</span> <span style="font-size:14px;">[medRxiv](https://www.medrxiv.org/content/10.64898/2026.02.23.26346927v1.full.pdf) | [GitHub](https://github.com/mims-harvard/StratCP/) | [Project website](https://zitniklab.hms.harvard.edu/projects/StratCP/) </span>
+  {: style="line-height: 1.4; margin-bottom: 10px;" }
 
 <span style="font-size:14px;font-weight: 600;">Online selective conformal prediction with asymmetric rules: A permutation test approach</span>   
  <span style="font-size:14px;">Mingyi Zheng and </span><span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;">, 2026.</span> <span style="font-size:14px;">[Arxiv](https://arxiv.org/abs/2602.10018) | [GitHub](https://github.com/mingyi811/PEMI) </span>
+ {: style="line-height: 1.4; margin-bottom: 10px;" }
 
-<span style="font-size:14px;font-weight: 600;">Replicability Within One Study: Harnessing Multiplicity for Observational Causal Inference</span>   
-<span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;"> </span>    
-<span style="color:grey;font-size:14px;">Harvard Data Science Review (Column article), 2026. [HDSR](https://hdsr.mitpress.mit.edu/pub/xxn09ssc/release/1)</span>
-{: style="line-height: 1.4; margin-bottom: 10px;" }
 
 <span style="font-size:14px;font-weight: 600;">Multi-distribution robust conformal prediction</span>   
  <span style="font-size:14px;">Yuqi Yang and </span><span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;">, 2026. [Arxiv](https://arxiv.org/abs/2601.02998) | [GitHub](https://github.com/AragornBFRer/MDCP)</span>   
@@ -303,3 +299,15 @@ Jure Leskovec, and Emmanuel J. Candès</span>, 2026.</span> <span style="font-si
 <span style="font-size:15px;font-weight: 600;">Bayesian symbolic regression</span>    
   <span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px">, Weilin Fu, Jian Kang, Jiadong Guo, and Jian Guo. (undergrad internship project)</span>   
 <span style="color:grey;font-size:14px;">Proceedings of the 9th International Workshop on Statistical Relational Artificial Intelligence, 2020</span>. <span style="font-size:14px">[Arxiv](https://arxiv.org/pdf/1910.08892.pdf)</span> -->
+
+<p style="margin-bottom: 20px;"> </p>
+---- 
+<p style="margin-bottom: -10px;"> </p>
+  
+
+ 
+### Commentaries and other articles
+
+<span style="font-size:14px;font-weight: 600;">Replicability Within One Study: Harnessing Multiplicity for Observational Causal Inference</span>   
+<span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;">,</span>    <span style="color:grey;font-size:14px;">Harvard Data Science Review (Column article), 2026. [HDSR](https://hdsr.mitpress.mit.edu/pub/xxn09ssc/release/1)</span>
+{: style="line-height: 1.4; margin-bottom: 10px;" }

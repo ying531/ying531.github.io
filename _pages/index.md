@@ -95,10 +95,13 @@ These questions lead me to the fields of conformal prediction, causal inference,
 
 ## News
 
+- **April 2026**: In deploying AI model outputs, selective prediction offers the option to abstain when the output is unreliable. Can we move beyond the binary risk and concentration-inequality approach? In our new paper [SCoRE](https://arxiv.org/abs/2603.24704), we connect selective prediction to risk-controlled hypothesis testing, building on e-values to select trusted outputs with marginal and selective risk control! 
+<p style="margin-top: 0px; margin-bottom: -5px;"></p> 
+
 - **Mar 2026**: In generative design of new compounds, how to tell whether a hit (property-satisfying instance) appears? Excited to share our ICLR 2026 paper [ConfHit](https://arxiv.org/abs/2603.07371), using nested weighted permutation tests to locate hits in generated samples with conformal guarantees!
 <p style="margin-top: 0px; margin-bottom: -5px;"></p> 
 
-- **Feb 2026**: Average accuracy of medical AI does not answer the operational question: <span style="font-size:15px;font-weight: 500;">Is this prediction reliable enough to act on for this patient? What if not?</span> It's not just uncertainty quantification, but to turn UQ into actionable decisions. Sharing [StratCP](https://www.medrxiv.org/content/10.64898/2026.02.23.26346927v1.full.pdf), a mechanism that decides when to act/defer and what to do next, with rigorous guarantees! It selects (i) accurate predictions, (ii) long survivors, (iii) rapid H&E-based AI diagnoses that safely bypass costly genomic tests, and (iv) builds coherent prediction sets for deferred cases.
+- **Feb 2026**: Adoption of medical AI raises an operational question: <span style="font-size:15px;font-weight: 500;">Is this prediction reliable enough to act on for this patient? What if not?</span> It's not just quantifying the uncertainty, but to turn it into actionable decisions. Sharing [StratCP](https://www.medrxiv.org/content/10.64898/2026.02.23.26346927v1.full.pdf), a mechanism that decides when to act/defer (select  long survivors, accurate H&E-based diagnoses) given any model, and builds coherent follow-up sets for the deferred.
 <p style="margin-top: 0px; margin-bottom: -5px;"></p> 
 
 - **Feb 2026**: New papers on conformal prediction with uniform validity  across [multi-distributions](https://arxiv.org/abs/2601.02998) and online selective conformal prediction for arbitrary selection rules via [permutation test](https://arxiv.org/abs/2602.10018)! New [column](https://hdsr.mitpress.mit.edu/pub/xxn09ssc/release/1) for "Catalytic Causal Conversations" at Harvard Data Science Review. 
