@@ -31,7 +31,7 @@ I obtained my PhD in Statistics from Stanford University in 2024, advised by Pro
 Modern AI systems act as imperfect proxies: they select cases to prioritize, label data at scale, or generate hypotheses that humans act on. I study the statistical foundations for reliable AI use in high-stakes domains, around three connected themes:
 <p style="margin-top: -8px;"></p> 
 
-- **Uncertainty quantification and quality control for AI models**: Designing procedures that decide when AI predictions should (not) be trusted under explicit budgets of error, with recent focus on conformal inference with multiple unlabeled data and data-driven decisions. Applications include [drug discovery](https://arxiv.org/abs/2210.01408), safe deployment of [medical AI](https://www.medrxiv.org/content/10.64898/2026.02.23.26346927v1.full.pdf), [LLMs](https://arxiv.org/abs/2405.10301), and [generative design](https://openreview.net/pdf?id=IruPup3KnX). 
+- **Uncertainty quantification and quality control for AI models**: Designing procedures that decide when AI predictions should (not) be trusted under explicit budgets of error, with recent focus on conformal inference with multiple unlabeled data and data-driven decisions. Applications include [drug discovery](https://www.biorxiv.org/content/10.64898/2026.04.27.721076v1), safe deployment of [medical AI](https://www.medrxiv.org/content/10.64898/2026.02.23.26346927v1.full.pdf), [LLMs](https://arxiv.org/abs/2405.10301), and [generative design](https://openreview.net/pdf?id=IruPup3KnX). 
     <p style="margin-top: -8px;"></p> 
 
 <!-- - **Inference with AI-generated  data/hypotheses**  
@@ -93,7 +93,10 @@ These questions lead me to the fields of conformal prediction, causal inference,
 <p style="margin-top: -20px;"></p> 
 
 
-## News
+## News 
+
+- **May 2026**: Excited to share [TxConformal](https://www.biorxiv.org/content/10.64898/2026.04.27.721076v1), a framework for putting error budgets on AI-generated shortlists in therapeutic discovery, in collaboration with Genentech. TxConformal adjusts for distribution shift, converts AI scores into p-values, and controls or estimates false positives across proteins, perturbations, regulatory DNA, clinical trials, ADMET, and a wetlab validation in antibacterial screening.  
+<p style="margin-top: 0px; margin-bottom: -5px;"></p> 
 
 - **April 2026**: In deploying AI model outputs, selective prediction offers the option to abstain when the output is unreliable. Can we move beyond the binary risk and concentration-inequality approach? In our new paper [SCoRE](https://arxiv.org/abs/2603.24704), we connect selective prediction to risk-controlled hypothesis testing, building on e-values to select trusted outputs with marginal and selective risk control! 
 <p style="margin-top: 0px; margin-bottom: -5px;"></p> 

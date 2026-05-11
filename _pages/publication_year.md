@@ -30,14 +30,14 @@ This page organizes my papers by year.  See papers by research area [here](/rese
 <p style="margin-bottom: 20px;"> </p>
 
 
-<!--  
+ 
 
-<span style="font-size:15px;font-weight: 600;">TxConformal: Controlling False Discoveries in
+<span style="font-size:14px;font-weight: 600;">TxConformal: Controlling False Discoveries in
 AI-Driven Therapeutic Discovery</span>   
  <span style="font-size:14px;font-weight:500;">Ying Jin\*</span><span style="font-size:14px;">, <span style="font-size:14px;">Kexin Huang\*, Nathaniel Diamant, Kerry R. Buchholz,
-Steven T. Rutherford, Nicholas Skelton, Tommaso Biancalani, Gabriele Scalia,   
-Jure Leskovec, and Emmanuel J. Candès</span>, 2026.</span> <span style="font-size:14px;"></span>
--->
+Steven T. Rutherford, Nicholas Skelton, Tommaso Biancalani,     
+Gabriele Scalia, Jure Leskovec, and Emmanuel J. Candès, 2026. [bioRxiv](https://www.biorxiv.org/content/10.64898/2026.04.27.721076v1) | [GitHub](https://github.com/ying531/TxConformal) </span>  
+ {: style="line-height: 1.4; margin-bottom: 10px;" } 
 
 <span style="font-size:14px;font-weight: 600;">Conformal selective prediction with general risk control</span>   
  <span style="font-size:14px;">Tian Bai and </span><span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;">, 2026. [Arxiv](https://arxiv.org/abs/2603.24704) | [GitHub](https://github.com/Tian-Bai/SCoRE) </span> 
@@ -58,7 +58,8 @@ Jure Leskovec, and Emmanuel J. Candès</span>, 2026.</span> <span style="font-si
 
 
 <span style="font-size:14px;font-weight: 600;">Multi-distribution robust conformal prediction</span>   
- <span style="font-size:14px;">Yuqi Yang and </span><span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;">, 2026. [Arxiv](https://arxiv.org/abs/2601.02998) | [GitHub](https://github.com/AragornBFRer/MDCP)</span>   
+ <span style="font-size:14px;">Yuqi Yang and </span><span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;">, 2026.   </span>    
+ <span style="color:grey;font-size:14px;">International Conference on Machine Learning (ICML), 2026. [Arxiv](https://arxiv.org/abs/2601.02998) | [GitHub](https://github.com/AragornBFRer/MDCP)</span>   
  {: style="line-height: 1.4; margin-bottom: 10px;" }
 
 

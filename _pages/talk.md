@@ -39,6 +39,7 @@ layout: archive
 <span> </span>
 
 - **POPPER: Automated Hypothesis Validation with Agentic Sequential Falsifications**   
+  - *ICML Workshop on Statistical Frameworks for Uncertainty in Agentic Systems, July 2026* 
   - *Summer Program on Large Language Models for Social Science, Columbia University, May-June 2026*
   - *IMSI workshop on Reinforcement Learning from Offline Data and Human Feedback, April 2026*
   - *International Conference on Econometrics and Statistics (EcoSta 2025), August 2025*
