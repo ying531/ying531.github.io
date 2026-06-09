@@ -98,10 +98,10 @@ These questions lead me to the fields of conformal prediction, causal inference,
 - **June 2026**: Invited talks at the workshop on External Validity at Yale University, LLM in Social Sciences at Columbia University, Summer Institute in Computational Social Science at UPenn, and ICML workshop on "Statistical Frameworks for Uncertainty in Agentic Systems''. I'm also organizing a session on "Uncertainty Quantification, Conformal Prediction, and Distribution-Free Inference" at JSM 2026.
 <p style="margin-top: 0px; margin-bottom: -5px;"></p> 
 
-- **May 2026**: Excited to share [TxConformal](https://www.biorxiv.org/content/10.64898/2026.04.27.721076v1), a framework for putting error budgets on AI-generated shortlists in therapeutic discovery, in collaboration with Genentech. TxConformal adjusts for distribution shift, converts AI scores into p-values, and controls or estimates false positives across proteins, perturbations, regulatory DNA, clinical trials, ADMET, and a wetlab validation in antibacterial screening.  
+- **May 2026**: New preprint [TxConformal](https://www.biorxiv.org/content/10.64898/2026.04.27.721076v1), a framework for putting error budgets on AI-generated shortlists in drug discovery (proteins, perturbations, regulatory DNA, clinical trials, ADMET, and a wetlab validation in antibacterial screening), in collaboration with Genentech. 
 <p style="margin-top: 0px; margin-bottom: -5px;"></p> 
 
-- **April 2026**: In deploying AI model outputs, selective prediction offers the option to abstain when the output is unreliable. Can we move beyond the binary risk and concentration-inequality approach? In our new paper [SCoRE](https://arxiv.org/abs/2603.24704), we connect selective prediction to risk-controlled hypothesis testing, building on e-values to select trusted outputs with marginal and selective risk control! 
+- **April 2026**: New preprint [SCoRE](https://arxiv.org/abs/2603.24704), connecting selective prediction with risk-controlled hypothesis testing via conformal e-values. 
 <p style="margin-top: 0px; margin-bottom: -5px;"></p> 
 
 - **Mar 2026**: In generative design of new compounds, how to tell whether a hit (property-satisfying instance) appears? Excited to share our ICLR 2026 paper [ConfHit](https://arxiv.org/abs/2603.07371), using nested weighted permutation tests to locate hits in generated samples with conformal guarantees!
