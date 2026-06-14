@@ -43,7 +43,8 @@ Gabriele Scalia, Jure Leskovec, and Emmanuel J. Candès, 2026. [bioRxiv](https:/
  {: style="line-height: 1.4; margin-bottom: 10px;" } 
 
 <span style="font-size:14px;font-weight: 600;">Conformal selective prediction with general risk control</span>   
- <span style="font-size:14px;">Tian Bai and </span><span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;">, 2026. [Arxiv](https://arxiv.org/abs/2603.24704) | [GitHub](https://github.com/Tian-Bai/SCoRE) </span> 
+ <span style="font-size:14px;">Tian Bai and </span><span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;">, 2026. [Arxiv](https://arxiv.org/abs/2603.24704) | [GitHub](https://github.com/Tian-Bai/SCoRE) </span>    
+ <span style="font-size:14px">*Student Paper Award (Tian Bai) at ICSA Applied Statistics Symposium, 2026*.</span>  
  {: style="line-height: 1.4; margin-bottom: 10px;" }
 
 <span style="font-size:14px;font-weight: 600;">ConfHit: Conformal generative design with oracle-free guarantees</span>   

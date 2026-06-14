@@ -101,7 +101,7 @@ These questions lead me to the fields of conformal prediction, causal inference,
 - **May 2026**: New preprint [TxConformal](https://www.biorxiv.org/content/10.64898/2026.04.27.721076v1), a framework for putting error budgets on AI-generated shortlists in drug discovery (proteins, perturbations, regulatory DNA, clinical trials, ADMET, and a wetlab validation in antibacterial screening), in collaboration with Genentech. 
 <p style="margin-top: 0px; margin-bottom: -5px;"></p> 
 
-- **April 2026**: New preprint [SCoRE](https://arxiv.org/abs/2603.24704), connecting selective prediction with risk-controlled hypothesis testing via conformal e-values. 
+- **April 2026**: New preprint [SCoRE](https://arxiv.org/abs/2603.24704), connecting selective prediction with risk-controlled hypothesis testing via conformal e-values. Tian Bai receives the student paper award at ICSA Applied Statistics Symposium!
 <p style="margin-top: 0px; margin-bottom: -5px;"></p> 
 
 - **Mar 2026**: In generative design of new compounds, how to tell whether a hit (property-satisfying instance) appears? Excited to share our ICLR 2026 paper [ConfHit](https://arxiv.org/abs/2603.07371), using nested weighted permutation tests to locate hits in generated samples with conformal guarantees!
