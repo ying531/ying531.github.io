@@ -95,6 +95,9 @@ These questions lead me to the fields of conformal prediction, causal inference,
 
 ## News 
 
+- **July 2026**: How can uncertainty quantification guide optimal decisions? This is not addressed by statistical validity alone, and becomes subtle in counterfactual (causal) settings where actions alter the realized outcomes. Check out our new [preprint](https://arxiv.org/abs/2607.02206) which introduces policy-coupled coverage as a lossless interface between UQ and decisions.
+<p style="margin-top: 0px; margin-bottom: -5px;"></p> 
+
 - **June 2026**: Invited talks at the workshop on External Validity at Yale University, LLM in Social Sciences at Columbia University, Summer Institute in Computational Social Science at UPenn, and ICML workshop on "Statistical Frameworks for Uncertainty in Agentic Systems''. I'm also organizing a session on "Uncertainty Quantification, Conformal Prediction, and Distribution-Free Inference" at JSM 2026.
 <p style="margin-top: 0px; margin-bottom: -5px;"></p> 
 

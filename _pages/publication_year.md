@@ -29,6 +29,11 @@ This page organizes my papers by year.  See papers by research area [here](/rese
 
 <p style="margin-bottom: 20px;"> </p>
 
+<span style="font-size:14px;font-weight: 600;">Prediction Sets for Counterfactual Decisions: Coverage, Optimality, and Conformal Prediction
+</span>   
+ <span style="font-size:14px;">Yurui Zheng, </span><span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;">, 2026. [Arxiv](https://arxiv.org/abs/2607.02206) | [GitHub](https://github.com/yurui-zheng/PC-RACP) </span>  
+ {: style="line-height: 1.4; margin-bottom: 10px;" } 
+
 <span style="font-size:14px;font-weight: 600;">Everywhere Valid Bounds on False Discovery Proportions in Conformal Inference</span>   
  <span style="font-size:14px;">Ziang Song, </span><span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;">, <span style="font-size:14px;">and Emmanuel J. Candès, 2026. [Arxiv](https://arxiv.org/abs/2605.20726) | [GitHub](https://github.com/sza919/everywhere-valid-fdp-bounds-in-conformal-inference) </span>  
  {: style="line-height: 1.4; margin-bottom: 10px;" } 
