@@ -12,4 +12,5 @@ gem "pstore"
 gem "resolv-replace"
 gem "rinda"
 gem "syslog"
-gemspec
+# Only load the source gemspec, never a copy from a previous site build.
+gemspec glob: "minimal-mistakes-jekyll.gemspec"

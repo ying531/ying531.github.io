@@ -13,5 +13,5 @@ gem "pstore"
 # Skip resolv-replace and syslog which require native extensions
 gem "rinda"
 
-gemspec
-
+# Only load the source gemspec, never a copy from a previous site build.
+gemspec glob: "minimal-mistakes-jekyll.gemspec"

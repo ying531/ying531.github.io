@@ -1,5 +1,6 @@
 PATH
   remote: .
+  glob: minimal-mistakes-jekyll.gemspec
   specs:
     minimal-mistakes-jekyll (4.26.2)
       jekyll (>= 3.7, < 5.0)

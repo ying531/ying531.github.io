@@ -6,11 +6,7 @@ cd "$(dirname "$0")"
 
 echo "==> Preparing Ruby environment"
 if command -v rbenv >/dev/null 2>&1; then
-  if command -v zsh >/dev/null 2>&1; then
-    eval "$(rbenv init - zsh)"
-  else
-    eval "$(rbenv init - bash)"
-  fi
+  eval "$(rbenv init - bash)"
 fi
 
 echo "Using ruby: $(command -v ruby)"
@@ -25,26 +21,30 @@ if [[ "${RUBY_VERSION_NUM%%.*}" -lt 3 ]]; then
   exit 1
 fi
 
-echo "\n==> Cleaning previous build outputs"
-rm -rf _site .jekyll-cache .sass-cache
-
 echo "\n==> Ensuring Bundler is available (2.5.22)"
-if ! gem list -i bundler -v 2.5.22 >/dev/null 2>&1; then
-  gem install bundler:2.5.22
+if ! ruby -S gem list -i bundler -v 2.5.22 >/dev/null 2>&1; then
+  ruby -S gem install bundler:2.5.22
 fi
 
 export BUNDLE_GEMFILE="$(pwd)/Gemfile.local"
 echo "Using Gemfile: ${BUNDLE_GEMFILE}"
 
+# Match local_build.sh so both commands use gems built for this Ruby installation.
+RUBY_ENV_ID=$(ruby -rrbconfig -rdigest -e 'print "#{RUBY_PLATFORM}-#{Digest::SHA256.hexdigest(RbConfig.ruby)[0, 12]}"')
+BUNDLE_DIR="vendor/bundle/${RUBY_ENV_ID}"
+ruby -S bundle _2.5.22_ config set --local path "${BUNDLE_DIR}"
+echo "Using gem directory: ${BUNDLE_DIR}"
+
 echo "\n==> Installing gems"
-ruby -S bundle _2.5.22_ install --path vendor/bundle
+ruby -S bundle _2.5.22_ check || ruby -S bundle _2.5.22_ install
+
+echo "\n==> Cleaning previous build outputs"
+rm -rf _site .jekyll-cache .sass-cache
 
 echo "\n==> Building site for production"
 JEKYLL_ENV=production ruby -S bundle _2.5.22_ exec jekyll build
 
-if [[ -f package.json ]]; then
-  cp package.json ./_site/package.json
-fi
+printf '\nDone. Production site built in _site/.\n'
 
 # echo "\n==> Committing and pushing to current branch"
 # branch=$(git rev-parse --abbrev-ref HEAD)
@@ -53,4 +53,3 @@ fi
 # git push origin "$branch"
 
 # echo "\nDone. Built site is in _site/, pushed to $branch."
-
