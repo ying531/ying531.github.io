@@ -55,7 +55,7 @@ My research is supported by NSF DMS-2610282, Wharton Dean's Research Fund, and N
 
 
 ## News 
-- **Oct 2026**: Excited to present Conformal Policy Learning [[paper](https://arxiv.org/abs/2609.17296)] at the Federal Researve Bank "Frontiers in Machine Learning and Economics" [conference](https://web.cvent.com/event/31a719d4-a2e4-4398-8ad5-eda8d3aee5a2/websitePage:308f3e27-cd58-49ca-9ffd-d803bf5b1ab4), and agentic hypotheses testing at the Dahshu [Data Science Symposium](https://2026.dahshu.org/)! 
+- **Oct 2026**: Excited to present Conformal Policy Learning [[paper](https://arxiv.org/abs/2609.17296)] at the Federal Reserve Bank "Frontiers in Machine Learning and Economics" [conference](https://web.cvent.com/event/31a719d4-a2e4-4398-8ad5-eda8d3aee5a2/websitePage:308f3e27-cd58-49ca-9ffd-d803bf5b1ab4), and agentic hypotheses testing at the Dahshu [Data Science Symposium](https://2026.dahshu.org/)! 
 <p style="margin-top: 0px; margin-bottom: -5px;"></p> 
 
 - **Sep 2026**: New [preprint](https://arxiv.org/abs/2609.17296) on conformal policy learning, a new way of guiding safe decisions from uncertainty quantification!
