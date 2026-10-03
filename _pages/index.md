@@ -46,7 +46,7 @@ Topics include [distribution shifts](https://arxiv.org/abs/2412.08869) in large-
 - **Agentic scientific discovery**: Developing the statistical foundations for AI systems that generate and prioritize scientific hypotheses from multi-source, large-scale data, aiming to build agents that are both creative and statistically credible. See [POPPER](https://arxiv.org/pdf/2502.09858).
 
 Motivated by biomedical collaborations, my work builds general methods in conformal inference, selective inference, and causal inference.    
-My research is supported by NSF DMS-2610282, Wharton Dean's Research Fund, and NSF NAIRR Pilot project.
+My research is supported by NSF DMS-2610282, Wharton Dean's Research Fund, and Anthropic AI for Science.
  
  
 ---
