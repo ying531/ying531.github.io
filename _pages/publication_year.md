@@ -34,30 +34,40 @@ This page lists all the papers.  See summary by research area [here](/research/)
  <span style="font-size:14px;">Xuhe Zhang, Zhi Huang, and </span><span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;">, <span style="font-size:14px;">2026. [Arxiv](https://arxiv.org/abs/2610.40252)</span>  
  {: style="line-height: 1.4; margin-bottom: 10px;" } 
 
+<p style="margin-bottom: -5px;"> </p>
 
 <span style="font-size:14px;font-weight: 600;">When Does Inexact Matching Ensure Balance and Inference without Adjustment?</span>   
  <span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px">, 2026. [Arxiv](https://arxiv.org/abs/2610.10873)</span>  
  {: style="line-height: 1.4; margin-bottom: 10px;" } 
 
+ <p style="margin-bottom: -5px;"> </p>
+
 <span style="font-size:14px;font-weight: 600;">Conformal Policy Learning with Distribution-Free Safety Guarantees</span>   
  <span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px"> and Naoki Egami, 2026. [Arxiv](https://arxiv.org/abs/2609.17296) | [GitHub](https://github.com/ying531/conformal-policy-learning) </span>  
  {: style="line-height: 1.4; margin-bottom: 10px;" } 
+
+<p style="margin-bottom: -5px;"> </p>
 
 <span style="font-size:14px;font-weight: 600;">Augmented Inverse Hybrid Weighting: Robust Inference under Deterministic and Random Distribution Shifts
 </span>   
  <span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px"> and Dominik Rothenhäusler, 2026. [Arxiv](https://arxiv.org/abs/2608.00701) </span>  
  {: style="line-height: 1.4; margin-bottom: 10px;" } 
 
+<p style="margin-bottom: -5px;"> </p>
+
 <span style="font-size:14px;font-weight: 600;">Prediction Sets for Counterfactual Decisions: Coverage, Optimality, and Conformal Prediction
 </span>   
  <span style="font-size:14px;">Yurui Zheng, </span><span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;">, 2026. [Arxiv](https://arxiv.org/abs/2607.02206) | [GitHub](https://github.com/yurui-zheng/PC-RACP) </span>  
  {: style="line-height: 1.4; margin-bottom: 10px;" } 
+
+ <p style="margin-bottom: -5px;"> </p>
 
 <span style="font-size:14px;font-weight: 600;">Everywhere Valid Bounds on False Discovery Proportions in Conformal Inference</span>   
  <span style="font-size:14px;">Ziang Song, </span><span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;">, <span style="font-size:14px;">and Emmanuel J. Candès, 2026. [Arxiv](https://arxiv.org/abs/2605.20726) | [GitHub](https://github.com/sza919/everywhere-valid-fdp-bounds-in-conformal-inference) </span>  
  {: style="line-height: 1.4; margin-bottom: 10px;" } 
 
  
+<p style="margin-bottom: -5px;"> </p>
 
 <span style="font-size:14px;font-weight: 600;">TxConformal: Controlling False Discoveries in
 AI-Driven Therapeutic Discovery</span>   
@@ -66,25 +76,33 @@ Steven T. Rutherford, Nicholas Skelton, Tommaso Biancalani,
 Gabriele Scalia, Jure Leskovec, and Emmanuel J. Candès, 2026. [bioRxiv](https://www.biorxiv.org/content/10.64898/2026.04.27.721076v1) | [GitHub](https://github.com/ying531/TxConformal) </span>  
  {: style="line-height: 1.4; margin-bottom: 10px;" } 
 
+ <p style="margin-bottom: -5px;"> </p>
+
 <span style="font-size:14px;font-weight: 600;">Conformal Selective Prediction with General Risk Control</span>   
  <span style="font-size:14px;">Tian Bai and </span><span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;">, 2026. [Arxiv](https://arxiv.org/abs/2603.24704) | [GitHub](https://github.com/Tian-Bai/SCoRE) </span>    
  <span style="font-size:14px">*Student Paper Award (Tian Bai) at ICSA Applied Statistics Symposium, 2026*.</span>  
  {: style="line-height: 1.4; margin-bottom: 10px;" }
 
+<p style="margin-bottom: -5px;"> </p>
 
 <span style="font-size:14px;font-weight: 600;">Act or Defer: Error-Controlled Decision Policies for Medical Foundation Models</span>   
  <span style="font-size:14px;font-weight:500;">Ying Jin\*</span><span style="font-size:14px;">, Intae Moon\*, and Marinka Zitnik, 2026.</span> <span style="font-size:14px;">[medRxiv](https://www.medrxiv.org/content/10.64898/2026.02.23.26346927v1.full.pdf) | [GitHub](https://github.com/mims-harvard/StratCP/) | [Project website](https://zitniklab.hms.harvard.edu/projects/StratCP/) </span>
   {: style="line-height: 1.4; margin-bottom: 10px;" }
+
+<p style="margin-bottom: -5px;"> </p>
 
 <span style="font-size:14px;font-weight: 600;">Online Selective Conformal Prediction with Asymmetric Rules: A Permutation Test Approach</span>   
  <span style="font-size:14px;">Mingyi Zheng and </span><span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;">, 2026.</span> <span style="font-size:14px;">[Arxiv](https://arxiv.org/abs/2602.10018) | [GitHub](https://github.com/mingyi811/PEMI) </span>
  {: style="line-height: 1.4; margin-bottom: 10px;" }
 
 
+<p style="margin-bottom: -5px;"> </p>
+
 <span style="font-size:14px;font-weight: 600;">Cross-Balancing for Data-Informed Design and  Efficient Analysis of Observational Studies</span>   
  <span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;"> and José R. Zubizarreta, 2025. [Arxiv](https://arxiv.org/abs/2511.15896)</span>  
 {: style="line-height: 1.4; margin-bottom: 10px;" }
 
+<p style="margin-bottom: -5px;"> </p>
 
 <span style="font-size:14px;font-weight: 600;">Diversifying Conformal Selections</span>   
  <span style="font-size:14px;">Yash Nair, </span><span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;">, James Yang, and Emmanuel Candès, 2025. [Arxiv](https://arxiv.org/abs/2506.16229) | [GitHub](https://github.com/Yashnair123/diverseSelect)</span>   
@@ -102,30 +120,30 @@ Gabriele Scalia, Jure Leskovec, and Emmanuel J. Candès, 2026. [bioRxiv](https:/
 
 
 <span style="font-size:14px;font-weight: 600;">Optimized Conformal Selection: Powerful Selective Inference after Conformity Score Optimization</span>   
- <span style="font-size:14px;">Tian Bai and </span><span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;"></span> <span style="font-size:14px;"> [Arxiv](https://arxiv.org/abs/2411.17983) | [GitHub](https://github.com/Tian-Bai/OptCS)</span>   
- <span style="color:grey;font-size:14px;">Journal of the Royal Statistical Society: Series B (JRSS-B), accepted (2026+).</span>
+ <span style="font-size:14px;">Tian Bai and </span><span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;"></span>     
+ <span style="color:grey;font-size:14px;">Journal of the Royal Statistical Society: Series B (JRSS-B), accepted (2026+). [Arxiv](https://arxiv.org/abs/2411.17983) | [GitHub](https://github.com/Tian-Bai/OptCS)</span>
 {: style="line-height: 1.4; margin-bottom: 10px;" }
 
-<p style="margin-bottom: -3px;"> </p>
+<p style="margin-bottom: -5px;"> </p>
 
 <span style="font-size:14px;font-weight: 600;">ACS: An Interactive Framework for Conformal Selection</span>   
- <span style="font-size:14px;">Yu Gui\*, </span><span style="font-size:14px;font-weight:500;">Ying Jin\*</span><span style="font-size:14px;">, Yash Nair\*, and Zhimei Ren\*, 2025. [Arxiv](https://arxiv.org/abs/2507.15825</span>)  
-  <span style="color:grey;font-size:14px;">Journal of the American Statistical Association (JASA), accepted (2026+).</span>  
+ <span style="font-size:14px;">Yu Gui\*, </span><span style="font-size:14px;font-weight:500;">Ying Jin\*</span><span style="font-size:14px;">, Yash Nair\*, and Zhimei Ren\*    
+  <span style="color:grey;font-size:14px;">Journal of the American Statistical Association (JASA), accepted (2026+). [Arxiv](https://arxiv.org/abs/2507.15825</span>) </span>  
 {: style="line-height: 1.4; margin-bottom: 10px;" }
-<p style="margin-bottom: -3px;"> </p>
+<p style="margin-bottom: -5px;"> </p>
 
 <span style="font-size:14px;font-weight: 600;">ConfHit: Conformal Generative Design with Oracle-Free Guarantees</span>   
-<span style="font-size:14px">Siddhartha Laghuvarapu, </span> <span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;"> and Jimeng Sun [Arxiv](https://arxiv.org/abs/2603.07371) | [GitHub](https://github.com/siddharthal/CONFHIT-Conformal-Generative-Design-with-Oracle-Free-Guarantees)</span>    
-<span style="color:grey;font-size:14px;">International Conference on Learning Representations (ICLR), 2026.</span>
+<span style="font-size:14px">Siddhartha Laghuvarapu, </span> <span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;"> and Jimeng Sun </span>    
+<span style="color:grey;font-size:14px;">International Conference on Learning Representations (ICLR), 2026. [Arxiv](https://arxiv.org/abs/2603.07371) | [GitHub](https://github.com/siddharthal/CONFHIT-Conformal-Generative-Design-with-Oracle-Free-Guarantees)</span>
 {: style="line-height: 1.4; margin-bottom: 10px;" }
-<p style="margin-bottom: -3px;"> </p>
+<p style="margin-bottom: -5px;"> </p>
 
 <span style="font-size:14px;font-weight: 600;">Multi-Distribution Robust Conformal Prediction</span>   
- <span style="font-size:14px;">Yuqi Yang and </span><span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;">,   </span>    
+ <span style="font-size:14px;">Yuqi Yang and </span><span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;"> </span>    
  <span style="color:grey;font-size:14px;">International Conference on Machine Learning (ICML), 2026. [Arxiv](https://arxiv.org/abs/2601.02998) | [GitHub](https://github.com/AragornBFRer/MDCP)</span>   
  {: style="line-height: 1.4; margin-bottom: 10px;" }
 
-<p style="margin-bottom: -3px;"> </p>
+<p style="margin-bottom: -5px;"> </p>
 
 
 <span style="font-size:14px;font-weight: 600;">Controllable Sequence Editing for Counterfactual Generation</span>   
@@ -133,7 +151,14 @@ Gabriele Scalia, Jure Leskovec, and Emmanuel J. Candès, 2026. [bioRxiv](https:/
  <span style="color:grey;font-size:14px;">International Conference on Learning Representations (ICLR), 2026. [Arxiv](https://arxiv.org/abs/2502.03569) | [GitHub](https://github.com/mims-harvard/CLEF)</span>      
  {: style="line-height: 1.4; margin-bottom: 10px;" }
 
-<p style="margin-bottom: -3px;"> </p>
+<p style="margin-bottom: -5px;"> </p>
+
+
+<span style="font-size:14px;font-weight: 600;">Diagnosing the role of observable distribution shift in scientific replications</span>          
+  <span style="font-size:14px;font-weight:500;">Ying Jin\*</span><span style="font-size:14px;">, Kevin Guo\*, and Dominik Rothenhäusler</span> <span style="font-size:14px;">[Arxiv](https://arxiv.org/abs/2309.01056) | [awesome-replicability-data](https://github.com/ying531/awesome-replicability-data) | [R package](https://github.com/ying531/repDiagnosis) | [shiny app](https://mbzlnj-ying-jin.shinyapps.io/shiny/)</span>     
+  <span style="color:grey;font-size:14px;">Journal of the Royal Statistical Society: Series C (JRSS-C): Applied Statistics, 2026.</span>
+{: style="line-height: 1.4; margin-bottom: 10px;" }
+
 
 <p style="margin-bottom: 20px;"> </p>
 ----
@@ -148,11 +173,6 @@ Gabriele Scalia, Jure Leskovec, and Emmanuel J. Candès, 2026. [bioRxiv](https:/
   <span style="color:grey;font-size:14px;">Proceedings of the National Academy of Sciences (PNAS), 2025.</span>   
 {: style="line-height: 1.4; margin-bottom: 10px;" }
 
-
-<span style="font-size:14px;font-weight: 600;">Diagnosing the role of observable distribution shift in scientific replications</span>          
-  <span style="font-size:14px;font-weight:500;">Ying Jin\*</span><span style="font-size:14px;">, Kevin Guo\*, and Dominik Rothenhäusler</span> <span style="font-size:14px;">[Arxiv](https://arxiv.org/abs/2309.01056) | [awesome-replicability-data](https://github.com/ying531/awesome-replicability-data) | [R package](https://github.com/ying531/repDiagnosis) | [shiny app](https://mbzlnj-ying-jin.shinyapps.io/shiny/)</span>     
-  <span style="color:grey;font-size:14px;">Journal of the Royal Statistical Society: Series C (JRSS-C): Applied Statistics, 2026.</span>
-{: style="line-height: 1.4; margin-bottom: 10px;" }
 
 <p style="margin-bottom: -5px;"> </p>
 
