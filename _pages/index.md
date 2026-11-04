@@ -31,7 +31,7 @@ I obtained my PhD in Statistics from Stanford University in 2024, advised by Pro
 Modern AI systems act as imperfect proxies: they select cases to prioritize, label data at scale, or generate hypotheses that humans act on. I study the statistical foundations for reliable AI use in high-stakes domains, around three connected themes:
 <p style="margin-top: -8px;"></p> 
 
-- **Uncertainty quantification and quality control for AI models**: Designing procedures that decide when AI predictions should (not) be trusted under explicit budgets of error, with recent focus on conformal inference with multiple unlabeled data and data-driven decisions. Applications include [drug discovery](https://www.biorxiv.org/content/10.64898/2026.04.27.721076v1), safe deployment of [medical AI](https://www.medrxiv.org/content/10.64898/2026.02.23.26346927v1.full.pdf), [LLMs](https://arxiv.org/abs/2405.10301), and [generative design](https://openreview.net/pdf?id=IruPup3KnX). 
+- **Uncertainty quantification and quality control for AI models**: Designing procedures that decide when AI predictions should (not) be trusted under explicit budgets of error, with recent focus on conformal inference with multiple unlabeled data and data-driven decisions. Applications include [drug discovery](https://www.biorxiv.org/content/10.64898/2026.04.27.721076v1), safe deployment of [medical AI](https://www.medrxiv.org/content/10.64898/2026.02.23.26346927v1.full.pdf), [LLMs](https://arxiv.org/abs/2405.10301), [AI labeling](https://arxiv.org/abs/2610.40252), and [generative design](https://openreview.net/pdf?id=IruPup3KnX). 
     <p style="margin-top: -8px;"></p> 
 
 <!-- - **Inference with AI-generated  data/hypotheses**  
@@ -55,6 +55,9 @@ My research is supported by NSF DMS-2610282, Wharton Dean's Research Fund, and A
 
 
 ## News 
+
+- **Nov 2026**: [Conformal Annotation](https://arxiv.org/abs/2610.40252): Can AI predictions serve as labels without expert review, with limited error in a changing workflow? 
+<p style="margin-top: 0px; margin-bottom: -5px;"></p>
 
 - **Oct 2026**: New [paper](https://arxiv.org/abs/2610.10873) on the bias and inference guarantees for inexact one-to-one matching, solving a problem puzzling me for years.
 <p style="margin-top: 0px; margin-bottom: -5px;"></p>
@@ -81,7 +84,7 @@ New [preprint](https://arxiv.org/abs/2608.00701) on effect generalization under 
 - **Mar 2026**: In generative design of new compounds, how to tell whether a hit (property-satisfying instance) appears? Excited to share our ICLR 2026 paper [ConfHit](https://arxiv.org/abs/2603.07371), using nested weighted permutation tests to locate hits in generated samples with conformal guarantees!
 <p style="margin-top: 0px; margin-bottom: -5px;"></p> 
 
-- **Feb 2026**: Medical AI raises an operational question: <span style="font-size:15px;font-weight: 500;">Is this prediction reliable enough to act on for this patient? What if not?</span> Sharing [StratCP](https://www.medrxiv.org/content/10.64898/2026.02.23.26346927v1.full.pdf), a mechanism that decides when to act/defer (select  long survivors, accurate H&E-based diagnoses) given any model, and builds coherent follow-up sets for the deferred.
+- **Feb 2026**: Medical AI raises an operational question: <span style="font-size:15px;font-weight: 500;">Is this prediction reliable enough to act on for this patient? What if not?</span> Sharing [StratCP](https://www.medrxiv.org/content/10.64898/2026.02.23.26346927v1.full.pdf), a mechanism that decides when to act/defer given any model, and builds coherent follow-up sets for the deferred.
 <p style="margin-top: 0px; margin-bottom: -5px;"></p> 
 
 - **Feb 2026**: New papers on conformal prediction with uniform validity  across [multi-distributions](https://arxiv.org/abs/2601.02998) and online selective conformal prediction for arbitrary selection rules via [permutation test](https://arxiv.org/abs/2602.10018)! New [column](https://hdsr.mitpress.mit.edu/pub/xxn09ssc/release/1) for "Catalytic Causal Conversations" at Harvard Data Science Review. 
