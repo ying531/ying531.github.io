@@ -119,17 +119,17 @@ Gabriele Scalia, Jure Leskovec, and Emmanuel J. Candès, 2026. [bioRxiv](https:/
 <p style="margin-bottom: 20px;"> </p>
 
 
+<span style="font-size:14px;font-weight: 600;">ACS: An Interactive Framework for Conformal Selection</span>   
+ <span style="font-size:14px;">Yu Gui\*, </span><span style="font-size:14px;font-weight:500;">Ying Jin\*</span><span style="font-size:14px;">, Yash Nair\*, and Zhimei Ren\*    
+  <span style="color:grey;font-size:14px;">Journal of the American Statistical Association (JASA), accepted (2026+). [Arxiv](https://arxiv.org/abs/2507.15825</span>) </span>  
+{: style="line-height: 1.4; margin-bottom: 10px;" }
+<p style="margin-bottom: -5px;"> </p>
+
 <span style="font-size:14px;font-weight: 600;">Optimized Conformal Selection: Powerful Selective Inference after Conformity Score Optimization</span>   
  <span style="font-size:14px;">Tian Bai and </span><span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;"></span>     
  <span style="color:grey;font-size:14px;">Journal of the Royal Statistical Society: Series B (JRSS-B), accepted (2026+). [Arxiv](https://arxiv.org/abs/2411.17983) | [GitHub](https://github.com/Tian-Bai/OptCS)</span>
 {: style="line-height: 1.4; margin-bottom: 10px;" }
 
-<p style="margin-bottom: -5px;"> </p>
-
-<span style="font-size:14px;font-weight: 600;">ACS: An Interactive Framework for Conformal Selection</span>   
- <span style="font-size:14px;">Yu Gui\*, </span><span style="font-size:14px;font-weight:500;">Ying Jin\*</span><span style="font-size:14px;">, Yash Nair\*, and Zhimei Ren\*    
-  <span style="color:grey;font-size:14px;">Journal of the American Statistical Association (JASA), accepted (2026+). [Arxiv](https://arxiv.org/abs/2507.15825</span>) </span>  
-{: style="line-height: 1.4; margin-bottom: 10px;" }
 <p style="margin-bottom: -5px;"> </p>
 
 <span style="font-size:14px;font-weight: 600;">ConfHit: Conformal Generative Design with Oracle-Free Guarantees</span>   
@@ -138,12 +138,6 @@ Gabriele Scalia, Jure Leskovec, and Emmanuel J. Candès, 2026. [bioRxiv](https:/
 {: style="line-height: 1.4; margin-bottom: 10px;" }
 <p style="margin-bottom: -5px;"> </p>
 
-<span style="font-size:14px;font-weight: 600;">Multi-Distribution Robust Conformal Prediction</span>   
- <span style="font-size:14px;">Yuqi Yang and </span><span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;"> </span>    
- <span style="color:grey;font-size:14px;">International Conference on Machine Learning (ICML), 2026. [Arxiv](https://arxiv.org/abs/2601.02998) | [GitHub](https://github.com/AragornBFRer/MDCP)</span>   
- {: style="line-height: 1.4; margin-bottom: 10px;" }
-
-<p style="margin-bottom: -5px;"> </p>
 
 
 <span style="font-size:14px;font-weight: 600;">Controllable Sequence Editing for Counterfactual Generation</span>   
@@ -153,6 +147,13 @@ Gabriele Scalia, Jure Leskovec, and Emmanuel J. Candès, 2026. [bioRxiv](https:/
 
 <p style="margin-bottom: -5px;"> </p>
 
+
+<span style="font-size:14px;font-weight: 600;">Multi-Distribution Robust Conformal Prediction</span>   
+ <span style="font-size:14px;">Yuqi Yang and </span><span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;"> </span>    
+ <span style="color:grey;font-size:14px;">International Conference on Machine Learning (ICML), 2026. [Arxiv](https://arxiv.org/abs/2601.02998) | [GitHub](https://github.com/AragornBFRer/MDCP)</span>   
+ {: style="line-height: 1.4; margin-bottom: 10px;" }
+
+<p style="margin-bottom: -5px;"> </p>
 
 <span style="font-size:14px;font-weight: 600;">Diagnosing the role of observable distribution shift in scientific replications</span>          
   <span style="font-size:14px;font-weight:500;">Ying Jin\*</span><span style="font-size:14px;">, Kevin Guo\*, and Dominik Rothenhäusler</span> <span style="font-size:14px;">[Arxiv](https://arxiv.org/abs/2309.01056) | [awesome-replicability-data](https://github.com/ying531/awesome-replicability-data) | [R package](https://github.com/ying531/repDiagnosis) | [shiny app](https://mbzlnj-ying-jin.shinyapps.io/shiny/)</span>     
@@ -198,13 +199,6 @@ Gabriele Scalia, Jure Leskovec, and Emmanuel J. Candès, 2026. [bioRxiv](https:/
 {: style="line-height: 1.4; margin-bottom: 10px;" }
 
 
-<span style="font-size:14px;font-weight: 600;">Policy learning "without" overlap: pessimism and generalized empirical Bernstein's inequality</span>          
-  <span style="font-size:14px;font-weight:500;">Ying Jin\*</span><span style="font-size:14px;">, Zhimei Ren\*, Zhuoran Yang, and Zhaoran Wang</span>    
-  <span style="color:grey;font-size:14px;">Annals of Statistics, 2025.</span>  <span style="font-size:14px;">[Arxiv](https://arxiv.org/abs/2212.09900) | [an article on this work](https://gerben-oostra.medium.com/policy-learning-without-overlap-is-it-possible-c304dec76240) | [AoS](https://projecteuclid.org/journals/annals-of-statistics/volume-53/issue-4/Policy-learning-without-overlap--Pessimism-and-generalized-empirical-Bernsteins/10.1214/25-AOS2511.short)</span>
-{: style="line-height: 1.4; margin-bottom: 10px;" }
-
-<p style="margin-bottom: -5px;"> </p>
-
 
 <span style="font-size:14px;font-weight: 600;">Sensitivity analysis under the f-sensitivity models: a distributional robustness perspective</span>        
   <span style="font-size:14px;font-weight:500;">Ying Jin\*</span><span style="font-size:14px;">, Zhimei Ren\*, and Zhengyuan Zhou</span>  
@@ -214,6 +208,14 @@ Gabriele Scalia, Jure Leskovec, and Emmanuel J. Candès, 2026. [bioRxiv](https:/
 
 <p style="margin-bottom: -5px;"> </p>
 
+
+
+<span style="font-size:14px;font-weight: 600;">Policy learning "without" overlap: pessimism and generalized empirical Bernstein's inequality</span>          
+  <span style="font-size:14px;font-weight:500;">Ying Jin\*</span><span style="font-size:14px;">, Zhimei Ren\*, Zhuoran Yang, and Zhaoran Wang</span>    
+  <span style="color:grey;font-size:14px;">Annals of Statistics, 2025.</span>  <span style="font-size:14px;">[Arxiv](https://arxiv.org/abs/2212.09900) | [an article on this work](https://gerben-oostra.medium.com/policy-learning-without-overlap-is-it-possible-c304dec76240) | [AoS](https://projecteuclid.org/journals/annals-of-statistics/volume-53/issue-4/Policy-learning-without-overlap--Pessimism-and-generalized-empirical-Bernsteins/10.1214/25-AOS2511.short)</span>
+{: style="line-height: 1.4; margin-bottom: 10px;" }
+
+<p style="margin-bottom: -5px;"> </p>
 
 <p style="margin-bottom: 20px;"> </p>
 ----
@@ -234,14 +236,6 @@ Gabriele Scalia, Jure Leskovec, and Emmanuel J. Candès, 2026. [bioRxiv](https:/
 
 
 
-<span style="font-size:14px;font-weight: 600;">Selection by prediction with conformal p-values</span>         
-  <span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px"> and Emmanuel Candès</span>      
-  <span style="color:grey;font-size:14px;">Journal of Machine Learning Research (JMLR), 2023.</span> <span style="font-size:14px">[Arxiv](https://arxiv.org/abs/2210.01408) | [Reproduction code](https://github.com/ying531/selcf_paper) | [JMLR](https://www.jmlr.org/papers/v24/22-1176.html) </span>
-{: style="line-height: 1.4; margin-bottom: 10px;" }
-
-<p style="margin-bottom: -5px;"> </p>
-
-
 <span style="font-size:14px;font-weight: 600;">Modular regression: improving linear models by incorporating auxiliary data</span>          
   <span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px"> and Dominik Rothenhäusler</span>    
   <span style="color:grey;font-size:14px;">Journal of Machine Learning Research (JMLR), 2023.</span>  <span style="font-size:14px">[Arxiv](https://arxiv.org/abs/2211.10032) | [JMLR](https://www.jmlr.org/papers/volume24/22-1318/22-1318.pdf)</span>
@@ -249,6 +243,14 @@ Gabriele Scalia, Jure Leskovec, and Emmanuel J. Candès, 2026. [bioRxiv](https:/
 
 <p style="margin-bottom: -5px;"> </p>
 
+
+
+<span style="font-size:14px;font-weight: 600;">Selection by prediction with conformal p-values</span>         
+  <span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px"> and Emmanuel Candès</span>      
+  <span style="color:grey;font-size:14px;">Journal of Machine Learning Research (JMLR), 2023.</span> <span style="font-size:14px">[Arxiv](https://arxiv.org/abs/2210.01408) | [Reproduction code](https://github.com/ying531/selcf_paper) | [JMLR](https://www.jmlr.org/papers/v24/22-1176.html) </span>
+{: style="line-height: 1.4; margin-bottom: 10px;" }
+
+<p style="margin-bottom: -5px;"> </p>
 
 
 <span style="font-size:14px;font-weight: 600;">Uncertainty quantification over graph with conformalized graph neural networks</span>         
@@ -269,8 +271,7 @@ Gabriele Scalia, Jure Leskovec, and Emmanuel J. Candès, 2026. [bioRxiv](https:/
 
 
 <span style="font-size:14px;font-weight: 600;">Upper bounds on the Natarajan dimensions of some function classes</span>       
-  <span style="font-size:14px;font-weight:500;">Ying Jin</span>    
-  <span style="color:grey;font-size:14px;">IEEE International Symposium on Information Theory (ISIT), 2023.</span>  <span style="font-size:14px">[Arxiv](https://arxiv.org/pdf/2209.07015.pdf) | [Slides](/assets/files/slides_natarajan.pdf)</span>  
+  <span style="font-size:14px;font-weight:500;">Ying Jin</span>, <span style="color:grey;font-size:14px;">IEEE International Symposium on Information Theory (ISIT), 2023.</span>  <span style="font-size:14px">[Arxiv](https://arxiv.org/pdf/2209.07015.pdf) | [Slides](/assets/files/slides_natarajan.pdf)</span>  
 {: style="line-height: 1.4; margin-bottom: 10px;" }
 
 <p style="margin-bottom: -5px;"> </p>
