@@ -121,13 +121,13 @@ Gabriele Scalia, Jure Leskovec, and Emmanuel J. Candès, 2026. [bioRxiv](https:/
 
 <span style="font-size:14px;font-weight: 600;">ACS: An Interactive Framework for Conformal Selection</span>   
  <span style="font-size:14px;">Yu Gui\*, </span><span style="font-size:14px;font-weight:500;">Ying Jin\*</span><span style="font-size:14px;">, Yash Nair\*, and Zhimei Ren\*    
-  <span style="color:grey;font-size:14px;">Journal of the American Statistical Association (JASA), accepted (2026+). [Arxiv](https://arxiv.org/abs/2507.15825</span>) </span>  
+  <span style="color:grey;font-size:14px;">Journal of the American Statistical Association (JASA), 2026. [Arxiv](https://arxiv.org/abs/2507.15825</span>) </span>  
 {: style="line-height: 1.4; margin-bottom: 10px;" }
 <p style="margin-bottom: -5px;"> </p>
 
 <span style="font-size:14px;font-weight: 600;">Optimized Conformal Selection: Powerful Selective Inference after Conformity Score Optimization</span>   
  <span style="font-size:14px;">Tian Bai and </span><span style="font-size:14px;font-weight:500;">Ying Jin</span><span style="font-size:14px;"></span>     
- <span style="color:grey;font-size:14px;">Journal of the Royal Statistical Society: Series B (JRSS-B), accepted (2026+). [Arxiv](https://arxiv.org/abs/2411.17983) | [GitHub](https://github.com/Tian-Bai/OptCS)</span>
+ <span style="color:grey;font-size:14px;">Journal of the Royal Statistical Society: Series B (JRSS-B), 2026. [Arxiv](https://arxiv.org/abs/2411.17983) | [GitHub](https://github.com/Tian-Bai/OptCS)</span>
 {: style="line-height: 1.4; margin-bottom: 10px;" }
 
 <p style="margin-bottom: -5px;"> </p>
